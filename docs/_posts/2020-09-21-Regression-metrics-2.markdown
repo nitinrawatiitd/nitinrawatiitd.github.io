@@ -9,13 +9,9 @@
 * Root Mean Squared Percentage Error and Mean Absolute Percentage Error
    The MSE and Mean-Absolute-Error (MAE) are absolute errors which don't take into account how significant the error is. There are two relative errors,  Mean-Squared-Percentage-Error (MSPE) and Mean-Absolute-Percentage-Error (MAPE) that divide each error term by the actual value to give you a realive error instead of an absolute error.
 
-$$
-MSPE = \frac{1}{N} \sum_{i=1}^n \left( \frac{y_i - \hat{y}}{y_i}\right)^2
-$$
+$$ MSPE = \frac{1}{N} \sum_{i=1}^n \left( \frac{y_i - \hat{y}}{y_i}\right)^2 $$
 
-$$
-MAPE = \frac{1}{N} \sum_{i=1}^n \left| \frac{y_i - \hat{y}}{y_i}\right|
-$$
+$$ MAPE = \frac{1}{N} \sum_{i=1}^n \left| \frac{y_i - \hat{y}}{y_i}\right| $$
 
 The MAPE will be inversely proportional to its target and the MSPE will be inversely proportional to the square of the target.
 
@@ -24,10 +20,8 @@ The MAPE will be inversely proportional to its target and the MSPE will be inver
 
 * Root Mean Squared Logarithmic Error (MSLE)
 
-$$
-MSLE = \sqrt{\frac{1}{N}\sum_{i=1}^N (\log (y_i + 1) - \log(\hat{y}_i + 1))^2}\\
-= \sqrt{MSE(\log(y_i + 1), \log(\hat{y}_i + 1))}
-$$
+$$ MSLE = \sqrt{\frac{1}{N}\sum_{i=1}^N (\log (y_i + 1) - \log(\hat{y}_i + 1))^2}\\
+= \sqrt{MSE(\log(y_i + 1), \log(\hat{y}_i + 1))} $$
 
 You add a 1 to each term to prevent you from trying to take the /log/ of 0, which is undefined. The RMSLE is biased toward predictions that are higher than the actual values rather than lower.
 
