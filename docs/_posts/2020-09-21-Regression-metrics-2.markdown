@@ -1,15 +1,3 @@
-#+BEGIN_COMMENT
-.. title: Metrics Optimization 2
-.. slug: metrics-optimization-2
-.. date: 2018-09-19 08:04:33 UTC-07:00
-.. tags: notes metrics
-.. status: private
-.. category: notes
-.. link:
-.. description: Measuring model performance.
-.. type: text
-#+END_COMMENT
-
 * (R)MSPE, MAPE, and (R)MSLE
 ** An Off-By-One Example
    Suppose we are predicting sales for two shops and the two shops have different sales volumes but our predictions for both cases are off by one. In this case our Mean-Squared-Error (MSE) might be the same, but they have a different significance.
@@ -21,13 +9,13 @@
 * Root Mean Squared Percentage Error and Mean Absolute Percentage Error
    The MSE and Mean-Absolute-Error (MAE) are absolute errors which don't take into account how significant the error is. There are two relative errors,  Mean-Squared-Percentage-Error (MSPE) and Mean-Absolute-Percentage-Error (MAPE) that divide each error term by the actual value to give you a realive error instead of an absolute error.
 
-\[
+$$
 MSPE = \frac{1}{N} \sum_{i=1}^n \left( \frac{y_i - \hat{y}}{y_i}\right)^2
-\]
+$$
 
-\[
+$$
 MAPE = \frac{1}{N} \sum_{i=1}^n \left| \frac{y_i - \hat{y}}{y_i}\right|
-\]
+$$
 
 The MAPE will be inversely proportional to its target and the MSPE will be inversely proportional to the square of the target.
 
@@ -36,10 +24,10 @@ The MAPE will be inversely proportional to its target and the MSPE will be inver
 
 * Root Mean Squared Logarithmic Error (MSLE)
 
-\[
+$$
 MSLE = \sqrt{\frac{1}{N}\sum_{i=1}^N (\log (y_i + 1) - \log(\hat{y}_i + 1))^2}\\
 = \sqrt{MSE(\log(y_i + 1), \log(\hat{y}_i + 1))}
-\]
+$$
 
 You add a 1 to each term to prevent you from trying to take the /log/ of 0, which is undefined. The RMSLE is biased toward predictions that are higher than the actual values rather than lower.
 
