@@ -10,6 +10,7 @@
 |------+--------+-----------+-----|
 |    1 |      9 | 10        |   1 |
 |    2 |    999 | 1,000     |   1 |
+
 # Root Mean Squared Percentage Error and Mean Absolute Percentage Error
    The MSE and Mean-Absolute-Error (MAE) are absolute errors which don't take into account how significant the error is. There are two relative errors,  Mean-Squared-Percentage-Error (MSPE) and Mean-Absolute-Percentage-Error (MAPE) that divide each error term by the actual value to give you a realive error instead of an absolute error.
 
