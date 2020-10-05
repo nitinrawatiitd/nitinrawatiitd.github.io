@@ -32,9 +32,18 @@ github_username:  nitinrawatiitd
 linkedin_username: nitinrawatiitd
 
 # Build settings
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: <!--more-->
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-archives
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
