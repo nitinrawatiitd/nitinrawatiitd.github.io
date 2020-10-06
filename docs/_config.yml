@@ -20,8 +20,8 @@
 
 title: MyShtick
 email: nitin.rawat.iitd@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Semblence of a blog
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Semblence of a blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -31,9 +31,9 @@ minima:
     linkedin: nitinrawatiitd
     github: nitinrawatiitd
 
-author:
-  name: Nitin rawat
-  email: "nitin.rawat.iitd@gmail.com"
+#author:
+#  name: Nitin rawat
+#  email: "nitin.rawat.iitd@gmail.com"
 #github_username:  nitinrawatiitd
 #linkedin_username: nitinrawatiitd
 
