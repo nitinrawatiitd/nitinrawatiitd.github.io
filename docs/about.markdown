@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![Artificial neural network]({{ '/assets/pics/cover_pic.jpg' | relative_url }})
+{: style="width: 400px; max-width: 100%;"}
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am a 'shtickler' for knowledge. Bad wordplay aside, there are various things that interest me. Data Science has had me enamored for a long time and is what I do for a living. Literature, language and mythology excites me. I am a nerd when it comes to comic superheroes, movies and games - consuming every easter egg that I can lay my hands on. And then there is cooking. I think I have some exceptional skills there but my wife might feel otherwise

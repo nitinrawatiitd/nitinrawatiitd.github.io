@@ -21,11 +21,7 @@
 title: MyShtick
 email: nitin.rawat.iitd@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a 'shtickler' for knowledge. Bad wordplay aside, there are various things that interest me.
-  Data Science has me enamored for a long time and is what I do for a living. Literature, language and mythology
-  excites me. I am a nerd when it comes to comic superheroes, movies and games - consuming every easter egg
-  that I can lay my hands on. And then there is cooking. I think I have some exceptional skills there but my
-  wife might feel otherwise
+  Semblence of a blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
