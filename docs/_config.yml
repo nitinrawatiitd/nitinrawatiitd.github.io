@@ -26,10 +26,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
+  skin: dark
   social_links:
     linkedin: nitinrawatiitd
     github: nitinrawatiitd
 
+author:
+  name: Nitin rawat
+  email: "nitin.rawat.iitd@gmail.com"
 #github_username:  nitinrawatiitd
 #linkedin_username: nitinrawatiitd
 
