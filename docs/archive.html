@@ -4,11 +4,10 @@ layout: default
 <div class="home other-pages">
   <h1 class="page-heading">Archive</h1>
   <ul class="posts">
-  {% assign postsByYearMonth = site.posts | group_by_exp:"post", "post.date | date: '%Y %b'"  %}
-  {% for yearMonth in postsByYearMonth %}
-  <h3>{{ yearMonth.name }}</h3>
-      {% for post in yearMonth.items %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-    </ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> ({{ post.date | date: "%b %-d, %Y" }})
+    </li>
+  {% endfor %}
+  </ul>
 </div>
