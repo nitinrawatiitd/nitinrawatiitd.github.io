@@ -44,6 +44,7 @@
   border: 1px solid $border-color-01;
   border-radius: 5px;
   text-align: right;
+  padding-right: 10px;
 
   .nav-trigger {
     display: none;
@@ -82,14 +83,14 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: #A37ACC;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 0;
+      margin-right: 20px;
     }
     margin-left: 20px;
   }
