@@ -15,7 +15,7 @@
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 600;
-  color: #A37ACC; // $mauve-color;
+  color: #ffffff; // $mauve-color;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
@@ -26,11 +26,11 @@
 
   &,
   &:visited {
-    color: #A37ACC;
+    color: #ffffff;
   }
 
   &:hover {
-    color: #8262A3;
+    color: #A37ACC;
     text-decoration: none;
     cursor: pointer;
   }
@@ -83,7 +83,7 @@
   }
 
   .page-link {
-    color: #A37ACC;
+    color: #ffffff;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
@@ -91,6 +91,12 @@
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
+    }
+
+    &:hover {
+      color: #A37ACC;
+      text-decoration: none;
+      cursor: pointer;
     }
     margin-left: 20px;
   }
