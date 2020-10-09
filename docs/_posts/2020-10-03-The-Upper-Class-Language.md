@@ -10,3 +10,10 @@ French vs common english
 
 USA
 English with fancy loan words from french or any other european language vs common english (african american or of immigrants from non-English speaking countries)
+
+Why does one language become superior to the other?
+Typically the language spoken by the ruling class becomes the language of the elite. And id that power is foreign and has a language that is foreign, then that becomes the fashionable language that commoner must aspire too. the british conquest made English the upper class language, the French conquest of britain in the middle ages made french that and probably the indo-aryan migration made sanskrit, the language of the brahminical elite, the language in vogue.
+
+So is one language really superior to other?
+There is no direct answer to that. The reason English has become an elite language in India is totally different than why it has become a global language. English language, over the years, has shown tremendoues capacity to absorb words from other languages and in turn become richer.
+English is easier to type than some other languages than chinese or even hindi. But that's because of the roman alphabet and not the english language itself.
