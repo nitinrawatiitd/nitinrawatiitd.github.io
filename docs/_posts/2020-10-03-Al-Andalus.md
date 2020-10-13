@@ -1,3 +1,8 @@
+---
+layout: post
+tags: history
+---
+
 I have been fascinated by Spain and it's history, specially during the Islamic era from 7th century till 14th century, and the impact it has had on the culture and language of this beautiful country
 
 It think there are some parallels between the Mughal era in India and the different caliphates that ruled the iberian peninsula. Though Mughal era and the Caliphates of Al-nadalus did not overlap in time (the caliphates were well gone or on the decline before the time of Mughals) they show you how advanced and progressive islamic culture was than what is commonly known or accepted. Islam has left an deep impact on cultures and language of both countries. Some people might detest the islamic period of the history in both countries and consider it to be have been intrusive on the otherwise purer culture that might have existed before. But in many ways it has made the culture of both the countries richer and in the opinion of this author, interesting.
