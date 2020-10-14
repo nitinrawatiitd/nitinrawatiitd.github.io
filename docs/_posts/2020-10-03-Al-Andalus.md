@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: history
+tags: history language
 ---
 
 I have been fascinated by Spain and it's history, specially during the Islamic era from 7th century till 14th century, and the impact it has had on the culture and language of this beautiful country
@@ -16,6 +16,6 @@ I had the pleasure of visiting Spain during by frantic euro trip. I did not have
 
 # Language
 
-# 
+#
 
 Next stop - Morocco, where the Andulusian cultures survive
