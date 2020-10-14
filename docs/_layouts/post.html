@@ -11,7 +11,7 @@ layout: default
         {{ page.date | date: date_format }}
       </time>
       {%- if page.modified_date -%}
-        ~ 
+        ~
         {%- assign mdate = page.modified_date | date_to_xmlschema -%}
         <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
           {{ mdate | date: date_format }}
@@ -27,7 +27,7 @@ layout: default
       <span>
         {% for tag in page.tags %}
           {% capture tag_name %}{{ tag }}{% endcapture %}
-          <a class="post-tag" href="/nitinrawatiitd.github.io/docs/tag/{{ tag_name }}"><nobr>{{ tag_name }}</nobr>&nbsp;</a>
+          <a class="post-tag" href="/docs/tag/{{ tag_name }}"><nobr>{{ tag_name }}</nobr>&nbsp;</a>
         {% endfor %}
       </span>
     </p>
