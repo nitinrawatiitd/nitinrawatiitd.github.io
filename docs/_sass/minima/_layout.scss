@@ -248,14 +248,14 @@
   a.post-tag {
    border-radius: 5px;
    border: 1px solid #C0C0C0;
-   color: #C0C0C0;
+   color: #A37ACC;
    padding: 1px 5px;
    margin-left: 5px;
    &:hover {
-     border: 1px solid $brand-color;
+     border: 1px solid #C0C0C0;
      text-decoration: none;
-     color: #A37ACC;
-     background: $brand-color;
+     color: #fffff;
+     background: #A37ACC;
    }
  }
 }
