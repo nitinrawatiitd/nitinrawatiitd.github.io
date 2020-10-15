@@ -1,3 +1,8 @@
+---
+layout: post
+tags: culinary
+---
+
 # Occasional cook
 
 Full disclosure. I don't cook a lot. I feel cooking is a drudgery inflicted on human kind for the apple they took from Eden, the fire they stole from the Olympians or whatever other myths might tell you. Specially for a single person it is too much work. That's why eating out and recently ordering was a welcome respite - well moreso before Covid-19 changed everything.
