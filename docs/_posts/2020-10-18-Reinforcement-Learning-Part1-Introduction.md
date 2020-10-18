@@ -6,7 +6,6 @@ tags: reinforcement-learning
 
 <!--more-->
 
-## Table of Contents
 {: class="table-of-content"}
 * TOC
 {:toc}
