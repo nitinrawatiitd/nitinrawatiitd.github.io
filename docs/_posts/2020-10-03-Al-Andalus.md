@@ -16,6 +16,5 @@ I had the pleasure of visiting Spain during by frantic euro trip. I did not have
 
 # Language
 
-#
 
 Next stop - Morocco, where the Andulusian cultures survive
