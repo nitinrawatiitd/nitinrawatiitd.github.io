@@ -15,18 +15,18 @@ The main veggies
 * Tomato - several (you require some extra for the gravy as well)
 
 For the sauce
-* The corners of the veggies that you cut off
+* The corners of the veggies that you cut off and some tomatoes
 * Red onion
 * Garlic
 * Chives (mainly because I had a lot left over)
 * Freshly ground red pepper
-* Salt
-* Leaves
+* Salt and pepper
+* Some olive oil
 
 For the sides (or the carbs)
 * I tried sourdough bread, primarily because I recently found a decent place that supplies that, but you can try spaghetti and rice as well)
 
 Let's cook
 1. Play reverse psychology with your wife by declaring that you'll be cooking ratatouille today. Wait for the thought to simmer inside her. Distrust or pity, whatever it might be, soon you'll have a cook to aid you with the cooking
-2. Slice the veggies as evenly as possible. Or use a Mandoline if you are not good with the knife or prefer thinner slices. Thinner slices will cook more quickly but will mean more work when it comes to arranging them in a colourful array. Separate out the slices from the extreme ends, which will be of smaller size, for the sauce.
-3. Right, time to prepare the sauce. Take a pan of appropriate size and
+2. Slice the veggies as evenly as possible. Or use a Mandoline if you are not good with the knife or prefer thinner slices. Thinner slices will cook more quickly but will mean more work when it comes to arranging them in a colourful array. Separate out the chunks from the extreme ends, which will be of smaller size, for the sauce.
+3. Right, time to prepare the sauce. Take a pan of appropriate size and put it on medium flame. Put some oil
