@@ -11,7 +11,7 @@ There are two entities in a recommender system
 
 ## The 2 main methods
 There are 2 main methods to creating a recommender system -   
-![alt text](../../assets/images/recommender_system_types.png)
+![img](../../assets/images/recommender_system_types.png)
 
 1. **Collaborative filtering based** - the main idea that rules collaborative methods is that these past user-item interactions are sufficient to detect similar users and/or similar items and make predictions based on these estimated proximities. The class of collaborative filtering algorithms is divided into two sub-categories
 * **Memory based** - Memory based approaches directly works with values of recorded interactions, assuming no model, and are essentially based on nearest neighbours search (for example, find the closest users from a user of interest and suggest the most popular items among these neighbours). So -
