@@ -11,6 +11,8 @@ There are two entities in a recommender system
 
 ## The 2 main methods
 There are 2 main methods to creating a recommender system -   
+![image.png](attachment:f8772b63-9ede-4431-afb9-f8b3c4b0d1ec.png)
+
 1. **Collaborative filtering based** - the main idea that rules collaborative methods is that these past user-item interactions are sufficient to detect similar users and/or similar items and make predictions based on these estimated proximities. The class of collaborative filtering algorithms is divided into two sub-categories
 * **Memory based** - Memory based approaches directly works with values of recorded interactions, assuming no model, and are essentially based on nearest neighbours search (for example, find the closest users from a user of interest and suggest the most popular items among these neighbours). So -
   * Large sparse vectors of past interactions
@@ -36,3 +38,40 @@ Higher bias occurs when you have a simple model that is not able to learn the pa
 * **Memory based collaborative method** - Low bias, high variance. Since there is no inherent model, but just the actual historical user-item interactions, you are memorising the whole data
 * **Model based collaborative method** - High bias, low variance.
 * **Content based methods** - highest bias. low variance
+
+## Collaborative filtering methods
+
+### Memory based collaborative filtering method
+Nearest neighbours based on
+* User x User
+* Item x Item
+
+Slower
+
+### Model based collaborative filtering method
+Involves Matrix factorisation done using -
+* SGD (Stochastic Gradient Descent)
+* SVD (Singular Value Decomposition)
+* Neural network extension
+
+Faster
+
+### Hybrid
+Use the model based method to get dense user and item vectors, and then use those to find the nearest neighbours as per memory based approach
+
+## Content based method
+
+* Item centered
+* Customer centered
+* Combined
+
+
+## Evaluation metrics
+* Regular classification or regression metrics (with some consideration for sampling)
+* Human Evaluation
+* A/B testing
+
+Packages for building collaborative filtering based recommender systems systems
+* Surprise - http://surpriselib.com/
+* Fastai -
+  * Lesson on collaborative filtering and how to use fastai for that - https://course.fast.ai/videos/?lesson=6
