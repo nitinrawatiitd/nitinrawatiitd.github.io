@@ -20,7 +20,7 @@ There are 2 main methods to creating a recommender system -
 
 
 * **Model based** - Model based approaches assume an underlying “generative” model that explains the user-item interactions and try to discover it in order to make new predictions.
-  * new representation of users and items are built based on a model (small dense vectors)
+  * new representation of users and items are built based on a model (small dense vectors). This is done using matrix factorisation
   * recommendation are done using the model information
 
 
@@ -73,5 +73,5 @@ Use the model based method to get dense user and item vectors, and then use thos
 
 Packages for building collaborative filtering based recommender systems systems
 * Surprise - http://surpriselib.com/
-* Fastai -
+* Fastai - For deep learning methods
   * Lesson on collaborative filtering and how to use fastai for that - https://course.fast.ai/videos/?lesson=6
