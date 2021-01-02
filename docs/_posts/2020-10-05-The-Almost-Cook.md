@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: culinary
+tags: food
 ---
 
 # Occasional cook

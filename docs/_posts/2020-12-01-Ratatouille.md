@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: culinary
+tags: food
 ---
 
 My first post on my culinary expeditions and this one is special. Ratatouille, the Pixar movie, is what opened my mind to the craft and creativity that can and should lend beauty to any morsel we consume. I think Remy's passionate speech to his clueless brother to think beyond shoving food down the throat and think of the endless possibilities that combining different tastes, different flavours have to offer, really struck home. So it's almost poetic that I should start with what started it all.
