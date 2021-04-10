@@ -1,0 +1,2236 @@
+@context,@type,name,brand,sku,mpn,description,url,image,itemCondition,offers,price,priceCurrency,availability,priceValidUntil,gtin14,date
+https://schema.org,Offer,Amla (Price per 200 gms),"{'@type': 'Brand', 'name': 'FFG'}",AM2,,"Health benefits of Amla-:
+
+
+It improves eyesight. ...
+
+
+It burns fat. ...
+
+
+It builds immunity. ...
+
+
+Amla beautifies hair. ...
+
+
+It improves skin. ...
+
+
+It helps manage chronic conditions. 
+
+
+It relieves pain.
+
+",https://fastandfresh.in/products/amla?variant=33150689575000,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Amla_501x.jpg?v=1598459370,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '18.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/amla?variant=33150689575000', 'sku': 'AM2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",18.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Anar (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",AN1,,"Health benefits of pomegranate (Anar)-:
+
+
+Protects us from free radicals. ...
+
+
+Prevention of atherosclerosis. ...
+
+
+
+It acts like an oxygen mask. ...
+
+
+It prevents arthritis. ...
+
+
+Fights erectile dysfunction. ...
+
+
+Fights heart disease and prostate cancer. ...
+
+",https://fastandfresh.in/products/anar-kandhari?variant=32606824955992,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/anar-pomegranate_500x.jpg?v=1598459370,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '128.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/anar-kandhari?variant=32606824955992', 'sku': 'AN1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",128.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Apple Golden (Price per kg),"{'@type': 'Brand', 'name': 'FFG'}",AP4,,"Interesting Health Benefits Of Golden Apple-:
+
+
+Boosts Immune System 
+
+Helps Treat Cough 
+Improves Skin Health
+Helps Treat Digestive Problems 
+Provides Energy
+Helps in Weight Loss
+",https://fastandfresh.in/products/apple-golden-price-per-kg?variant=37987059564735,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Apples_Golden_500x.jpg?v=1610774031,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '139.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/apple-golden-price-per-kg?variant=37987059564735', 'sku': 'AP4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",139.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Apple Green Imported (Price per 500 gm),"{'@type': 'Brand', 'name': 'FFG'}",AP1,,"Some amazing Health benefits of (Apple grenny smith)-:
+
+
+Reduces the risk of cancer.
+
+
+Detoxifies the liver.
+
+
+Strengthens the Bones.
+
+
+Improves Digestion.
+
+
+Improves Vision.
+
+
+ ",https://fastandfresh.in/products/apple-green-imported-price-per-kg?variant=32630689955928,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/greenapple_500x.jpg?v=1593016076,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '112.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/apple-green-imported-price-per-kg?variant=32630689955928', 'sku': 'AP1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",112.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Apple Kinnaur (Price per kg),"{'@type': 'Brand', 'name': 'FFG'}",AP9,,"Surprising and Impressive Health Benefits of Apples Kinnaur -:
+
+
+Decrease risk of diabetes. ...
+
+
+Control your weight. ...
+
+
+Keeps Teeth Healthy. ...
+
+
+Reduces the risk of heart-related diseases. ...
+
+",https://fastandfresh.in/products/apple-shimla-price-per-500gms?variant=37475753951423,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/APPLESHIMLA_500x.jpg?v=1599669042,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '195.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/apple-shimla-price-per-500gms?variant=37475753951423', 'sku': 'AP9', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",195.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Apple Red Delicious Imported (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",AP7,,"Impressive Health Benefits of Apples delicious-:
+
+Apples Are Nutritious. 
+Apples May Be Good for Weight Loss. 
+Apples May Be Good for Your Heart. 
+They're Linked to a Lower Risk of Diabetes. 
+They May Have Prebiotic Effects and Promote Good Gut Bacteria. 
+",https://fastandfresh.in/products/apple-red-delicious-imported-price-per-500-gms?variant=38021125505215,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/APPLE_RED_ITLY_500x.png?v=1611204980,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '130.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/apple-red-delicious-imported-price-per-500-gms?variant=38021125505215', 'sku': 'AP7', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",130.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Apple Royal Gala (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",AP3,,"Health Benefits of New Zealand Royal Gala Apples-:
+
+
+
+ Vitamin C: New Zealand Gala Apples are home for vitamin C. 
+
+
+
+ Fat and Calories: Finally, for fat and calories, these apples are strongly recognized.
+
+
+Carbohydrates: Royal Gala apples also have a space for carbohydrates.
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+",https://fastandfresh.in/products/apple-royal-gala-price-per-500-gms?variant=32773052694616,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/APPLEGALA_500x.jpg?v=1593016077,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '124.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/apple-royal-gala-price-per-500-gms?variant=32773052694616', 'sku': 'AP3', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",124.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Apple Washington (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",AP4,,"Washington Apple Health benefits-:
+
+
+Apples May Be Good for Weight Loss. ...
+
+
+Apples May Be Good for Your Heart. ...
+
+
+They're Linked to a Lower Risk of Diabetes. ...
+
+
+They May Have Prebiotic Effects and Promote Good Gut Bacteria. ...
+
+
+Substances in Apples May Help Prevent Cancer. ...
+
+",https://fastandfresh.in/products/apple-washington?variant=32610329657432,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/APPLEWASHINGTON_500x.jpg?v=1594226544,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '146.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/apple-washington?variant=32610329657432', 'sku': 'AP4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",146.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Apricot Dry (Price per 200 gms),"{'@type': 'Brand', 'name': 'FFG'}",APR2,,"Dried Apricots Contain High Levels of Nutrients-:
+
+
+Encourages cell growth..
+
+
+Builds up the immune system.
+
+
+Maintains good vision..
+
+
+Keeps bones healthy
+
+
+Assists in reproduction
+
+",https://fastandfresh.in/products/apricot-dry-fresh-price-per-200gms?variant=33193324019800,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/DRY_500x.jpg?v=1598459423,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '152.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/apricot-dry-fresh-price-per-200gms?variant=33193324019800', 'sku': 'APR2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",152.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Arbi (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",AR1,,"Health Benefits Of Arbi (Taro)-:
+
+
+Helps In Combating Diabetes. ...
+
+
+Protects Heart. ...
+
+
+Provides A Number Of Antioxidants. ...
+
+
+May Control Hypertension.
+
+",https://fastandfresh.in/products/arbi-price-per-250-gms?variant=32787439779928,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/arbi_500x.jpg?v=1598459394,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '16.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/arbi-price-per-250-gms?variant=32787439779928', 'sku': 'AR1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",16.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Asparagus Thai (Price is Per 250gms),"{'@type': 'Brand', 'name': 'FFG'}",AS1,,Imported from Thai Land,https://fastandfresh.in/products/asparagus-thai?variant=32604289990744,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/ASPRAGUS_450x.jpg?v=1604463303,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '320.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/asparagus-thai?variant=32604289990744', 'sku': 'AS1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",320.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Avacado Hass Imported (Price per Pc/Approx.250gms to 300gms),"{'@type': 'Brand', 'name': 'FFG'}",AV1,,"Imported from Peru. Fresh Stock (Limited Qty.)
+",https://fastandfresh.in/products/avacado-hass-imported-price-per-pc?variant=32875908038744,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Avocado-HASS_500x.jpg?v=1593016080,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '299.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/avacado-hass-imported-price-per-pc?variant=32875908038744', 'sku': 'AV1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",299.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Avacado Indian (Price per Pcs/Approx. 300gms to 350gms ),"{'@type': 'Brand', 'name': 'FFG'}",AV2,,"These are from Coimbatore.&amp; So many 
+benefits of these -:
+
+
+Regulates Blood Pressure. ...
+
+
+Good for heart. ...
+
+
+Boosts fertility. ...
+
+
+Good for eyes. ...
+
+
+Good source of folate. ...
+
+
+Improved digestion. ...
+
+",https://fastandfresh.in/products/avacados?variant=32604290023512,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/AVACADO_500x.jpg?v=1602478708,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '128.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/avacados?variant=32604290023512', 'sku': 'AV2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",128.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Baby-corn (Price per 200gms),"{'@type': 'Brand', 'name': 'FFG'}",BAB1,,"Here are some essential benefits of baby corn you must know-:
+
+
+Low In Calories. Baby corn is very low in calories
+
+
+Rich In Fibre.
+
+
+Low-Carb Veggie
+
+
+Nutrient Dense.
+
+
+Stimulates Digestion
+
+
+ ",https://fastandfresh.in/products/baby-corn-price-per-200gms?variant=33316151230552,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/BABYCORN_500x.png?v=1599669052,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '38.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/baby-corn-price-per-200gms?variant=33316151230552', 'sku': 'BAB1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",38.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Banana  (Price per Pc),"{'@type': 'Brand', 'name': 'FFG'}",BA2,,"
+Health benefits of bananas-:
+
+
+
+Bananas are respectable sources of vitamin C. ...
+
+
+Manganese in bananas is good for your skin. ...
+
+
+Potassium in bananas is good for your heart health and blood pressure. ...
+
+
+
+Bananas can aid digestion and help beat gastrointestinal issues. ...
+
+",https://fastandfresh.in/products/banana?variant=32606825021528,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/banana_500x.png?v=1598459372,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '8.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/banana?variant=32606825021528', 'sku': 'BA2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",8.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Banana Flower (Price per Pcs Approx. 400gms to 500gms),"{'@type': 'Brand', 'name': 'FFG'}",BAN4,,"Health Benefits Of Banana Flowers:
+
+Slows The Ageing Process. 
+Promotes Kidney Function.
+
+Keeps Infections At Bay. Banana flower seems to be very effective in treating infections in natural ways.
+
+
+Boosts Mood And Reduces Anxiety. 
+
+
+",https://fastandfresh.in/products/banana-flower-price-per-pcs-approx-400gms-to-500gms?variant=37697933541567,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Banana-Flower_500x.png?v=1607141838,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '48.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/banana-flower-price-per-pcs-approx-400gms-to-500gms?variant=37697933541567', 'sku': 'BAN4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",48.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Banana Raw (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",BA3,,"Here are some of the health benefits of Raw bananas-:
+
+
+Rich in vitamins. ...
+
+
+Great for diabetics. ...
+
+
+Raw bananas are rich in fibre. ...
+
+
+Prevents stomach problems. ...
+
+
+They help in weight loss. ...
+
+
+Good for heart health. ...
+
+",https://fastandfresh.in/products/banana-raw-price-per-500-gms?variant=32798179164248,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/RawBanana_500x.jpg?v=1593016083,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '32.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/banana-raw-price-per-500-gms?variant=32798179164248', 'sku': 'BA3', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",32.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Basil Leaves (Price per 100 gms),"{'@type': 'Brand', 'name': 'FFG'}",BA4,,"Benefits of basil leaves you must know-:
+
+
+Good For Digestion. ...
+
+
+Anti-inflammatory. ...
+
+
+Fights free radical activity. ...
+
+
+Skin Benefits. ...
+
+
+Fights Depression. ...
+
+
+Diabetes Management. ...
+
+",https://fastandfresh.in/products/basil-leaves?variant=32604290154584,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/basil_500x.png?v=1593016083,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '34.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/basil-leaves?variant=32604290154584', 'sku': 'BA4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",34.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,BASKET FFG (Large),"{'@type': 'Brand', 'name': 'FAST AND FRESH GLOBAL LLP'}",,,"
+ DRAGON FRUIT 1 NOSARDA MELON - 1 NOPINEAPPLE - 1 NOAPPLE GREEN - 2 NOPLUMS IMP - 2 NOORANGE IMP - 6 NOKIWI FRUIT - 3 NOAPPLE ROYAL GALA - 4 NOPEARS IMP - 2 NOANAR - 1 NOGRAPES RED IMP - 500GMS
+
+The Final Price includes Basket cost / Making Charges / Delivery Charges.
+* Please note that Fruits and baskets may change according to availability.",https://fastandfresh.in/products/basket-ffg3?variant=33401399017560,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/basket_large_3d422059-5c73-469f-82e5-2c2a2b40b726_390x.jpg?v=1604217023,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '1595.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/basket-ffg3?variant=33401399017560', 'sku': '', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",1595.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,BASKET FFG (Medium),"{'@type': 'Brand', 'name': 'FAST AND FRESH GLOBAL LLP'}",BASKET 2,,"ANAR - 700gms
+ORANGE IMPORTED - 500gms
+KIWI IMPORTED - 500gms
+PEARS IMPORTED - 500gms
+DRAGON FRUIT - 1 Pcs 
+APPLE GREEN IMPORTED - 500gms
+APPLE RED KINNAUR - 500gms
+ORANGE NAGPUR - 500gms
+ 
+The Final Price includes Basket cost / Making Charges / Delivery Charges.
+* Please note that Fruits and baskets may change according to availability.",https://fastandfresh.in/products/basket-ffg2?variant=33401398001752,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/MEDIUMBASKET_390x.jpg?v=1604285323,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '859.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/basket-ffg2?variant=33401398001752', 'sku': 'BASKET 2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",859.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,BASKET FFG (Small),"{'@type': 'Brand', 'name': 'FAST AND FRESH GLOBAL LLP'}",BASKET 1,,"APPLE KINNAUR - 500gms
+
+APPLE GREEN - 500gms
+ORANGE NAGPUR - 500gms
+PEARS IMPORTED - 500gms
+ANAR - 500gms
+ 
+The Final Price includes Basket cost / Making Charges / Delivery Charges.
+* Please note that Fruits and baskets may change according to availability.
+",https://fastandfresh.in/products/basket-ffg1?variant=33401392234584,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/baskt_small_3e804bde-6181-4f2d-ad22-a1375c4be7b1_390x.jpg?v=1604285386,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '495.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/basket-ffg1?variant=33401392234584', 'sku': 'BASKET 1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",495.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Bathua leaves (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",BAT1,,"
+
+
+Benefits Of Bathua-:
+ 
+
+
+
+Rich in Micronutrients:
+
+
+
+Rich in Fibre:
+
+
+
+Rich in Amino Acids: 
+
+
+
+",https://fastandfresh.in/products/bathua-leaves-price-per-500gms?variant=33452396478552,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Bathua_500x.jpg?v=1603685294,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '13.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/bathua-leaves-price-per-500gms?variant=33452396478552', 'sku': 'BAT1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",13.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Beans (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",BE1,,"Green Beans are very healthy-:
+
+
+Green beans are a good source of vitamins and minerals.
+
+
+Green beans contain many essential vitamins, including folate
+
+
+Green beans contain a high amount of chlorophy
+
+",https://fastandfresh.in/products/beans?variant=32604290187352,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/beans_1100x.jpg?v=1598459347,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '13.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/beans?variant=32604290187352', 'sku': 'BE1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",13.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Beet Root (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",BE2,,"Impressive Health Benefits of Beet Root-:
+
+
+Can Improve Athletic Performance
+
+
+May Help Fight Inflammation
+
+
+May Improve Digestive Health
+
+
+May Help Support Brain Health
+
+
+May Have Some Anti-Cancer Properties
+
+",https://fastandfresh.in/products/beet-root?variant=32604290220120,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/beetroot_501x.png?v=1598459348,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '8.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/beet-root?variant=32604290220120', 'sku': 'BE2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",8.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Ber Fruit/ Jujube (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",BER1,,"
+
+Here are amazing health benefits of ber fruit:
+
+
+Helps in improving the blood circulation: 
+
+
+Provides a glowing skin: 
+
+
+Good for your bones: 
+
+
+Good for your tummy: 
+
+
+It helps you sleep better:
+
+",https://fastandfresh.in/products/ber-fruit-jujube-price-per-500gms?variant=37681133846719,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/BERFRUIT_500x.jpg?v=1606964208,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '37.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/ber-fruit-jujube-price-per-500gms?variant=37681133846719', 'sku': 'BER1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",37.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Bhutta/Corn whole  (Price per Pc/Approx. 200gm to 300gms),"{'@type': 'Brand', 'name': 'FFG'}",BH1,,"
+If theres anything that truly defines the essence of Indian monsoon, it is a bhutta, which is one of the oldest summer crop.
+",https://fastandfresh.in/products/bhutta-price-per-pc?variant=32886536339544,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Cornbhutta_500x.jpg?v=1600878883,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '18.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/bhutta-price-per-pc?variant=32886536339544', 'sku': 'BH1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",18.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Blueberries  (Price per 125 gms),"{'@type': 'Brand', 'name': 'FFG'}",BLUB1,,"Incredible Blueberry Benefits: 
+
+
+Super Source of Antioxidants. ...
+
+
+Boosts Immunity. ...
+
+
+Can Undo Damage of a High Fat Diet. ...
+
+
+Reduces Risks of Heart Disease. ...
+
+
+Boosts Brain Health. ...
+
+
+Regulating Blood Sugar. ..
+
+
+",https://fastandfresh.in/products/blueberries-price-per-125-gms?variant=33138270699608,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/BLUEBERRYFFG_500x.jpg?v=1598459416,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '209.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/blueberries-price-per-125-gms?variant=33138270699608', 'sku': 'BLUB1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",209.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Brinjal Long (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",BRI4,,"Surprising Health Benefits of Eggplants
+
+Rich in Many Nutrients. ...
+High in Antioxidants. ...
+May Reduce the Risk of Heart Disease. ...
+May Promote Blood Sugar Control. ...
+Could Help With Weight Loss. ...
+May Have Cancer-Fighting Benefits. ...
+Very Easy to Add to Your Diet.
+",https://fastandfresh.in/products/brinjal-long-price-per-500gms?variant=33350063325272,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/long-brinjal-500x500_500x.jpg?v=1600878916,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '16.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/brinjal-long-price-per-500gms?variant=33350063325272', 'sku': 'BRI4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",16.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Brinjal Round (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",BR2,,"Surprising Health Benefits of Eating Eggplant:
+
+
+HELPS WITH DIGESTION. ...
+
+
+IMPROVES HEART HEALTH. ...
+
+
+PREVENTS CANCER. ...
+
+
+IMPROVES BONE HEALTH. ...
+
+
+PREVENTS ANEMIA. ...
+
+",https://fastandfresh.in/products/brinjal-round?variant=32604290318424,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/brinjlround_501x.png?v=1598459348,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '16.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/brinjal-round?variant=32604290318424', 'sku': 'BR2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",16.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Brinjal Small (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",BR3,,"
+
+HELPS WITH DIGESTION. ...
+
+
+IMPROVES HEART HEALTH. ...
+
+
+PREVENTS CANCER. ...
+
+
+IMPROVES BONE HEALTH. ...
+
+
+PREVENTS ANEMIA. ...
+
+
+INCREASES BRAIN FUNCTION.
+
+",https://fastandfresh.in/products/brinjal-small-price-per-250gms?variant=32843680874584,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/brinjalSMALL_500x.jpg?v=1598459398,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '10.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/brinjal-small-price-per-250gms?variant=32843680874584', 'sku': 'BR3', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",10.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Broccoli (Price is Per Pcs/Approx.400gms to 500gms),"{'@type': 'Brand', 'name': 'FFG'}",BR4,,"The health benefits of broccoli :
+Cholesterol reduction.
+Reducing allergic reaction and inflammation.
+Powerful antioxidant.
+Great for detoxification.",https://fastandfresh.in/products/brocolli?variant=32604290515032,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/brocoli_500x.jpg?v=1598459349,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '26.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/brocolli?variant=32604290515032', 'sku': 'BR4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",26.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Cabbage China (Price per 500gms),"{'@type': 'Brand', 'name': 'FAST AND FRESH GLOBAL LLP'}",,,"Health Benefits of Chinese Cabbage-:
+
+
+Helps build strong bones
+
+
+Fights fatigue and anemia
+
+
+Helps regulate blood pressure
+
+
+Strengthen the immune system
+
+
+Eye health
+
+",https://fastandfresh.in/products/china-cabbage-price-per-500gms?variant=33365391802456,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/chinacabbage_500x.jpg?v=1600878918,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '22.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/china-cabbage-price-per-500gms?variant=33365391802456', 'sku': '', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",22.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Cabbage Green (Price per Pcs/Approx. 400gms to 500gms),"{'@type': 'Brand', 'name': 'FFG'}",CA1,,"  Benefits of Eating Cabbage for Health-: 
+
+
+
+Reduces the Risks of Cataracts:
+
+
+Anti-Inflammatory Properties:
+
+
+Boosts Your Immunity:
+
+
+Aids in Weight Loss:
+
+",https://fastandfresh.in/products/cabbage-green?variant=32604290547800,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/cabbage_501x.jpg?v=1598459350,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '10.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/cabbage-green?variant=32604290547800', 'sku': 'CA1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",10.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Cabbage Red (Price per Pc/Approx. 400gms to 500gms),"{'@type': 'Brand', 'name': 'FFG'}",CA2,,"
+The health benefits of red cabbage 
+
+
+
+
+
+Boasts powerful plant compounds
+
+
+
+
+Helps fight inflammation
+
+
+
+
+May strengthen your bones
+
+
+
+
+
+May enhance gut health
+
+
+",https://fastandfresh.in/products/cabbage-red?variant=32604290580568,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/redcabbge_499x.jpg?v=1598459350,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '24.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/cabbage-red?variant=32604290580568', 'sku': 'CA2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",24.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Capsicum Green (Price is per 500 Gm),"{'@type': 'Brand', 'name': 'FFG'}",CA3,,"Why capsicum is good to eat-:
+
+
+Capsicums are an excellent source of vitamin A and C.
+
+
+They are also a good source of dietary fibre, vitamin E, B6 and folate.
+
+
+
+The sweetness of capsicums is due to their natural sugars
+
+
+",https://fastandfresh.in/products/capsicum-green?variant=32604290613336,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/capsicumgreen_499x.jpg?v=1593016090,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '28.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/capsicum-green?variant=32604290613336', 'sku': 'CA3', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",28.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Capsicum Red (Price per 250 gm),"{'@type': 'Brand', 'name': 'FFG'}",CA4,,"Health benefits of Red capsicum-:
+
+
+Red bell peppers are packed with antioxidants. .
+
+
+A great source of vitamin B6 and magnesium.
+
+
+
+it helps to support healthy eyesight, especially night vision.
+
+
+",https://fastandfresh.in/products/capsicum-red?variant=32604290646104,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/capsicumred_501x.png?v=1598459351,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '85.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/capsicum-red?variant=32604290646104', 'sku': 'CA4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",85.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Capsicum Yellow  (Price per 250 gm),"{'@type': 'Brand', 'name': 'FFG'}",CA5,,"Health benefits of Yellow capsicum-:
+
+
+Red bell peppers are packed with antioxidants. .
+
+
+A great source of vitamin B6 and magnesium.
+
+
+
+it helps to support healthy eyesight, especially night vision.
+
+
+",https://fastandfresh.in/products/capsicum-yellow?variant=32604290678872,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/capyellow_500x.jpg?v=1593016092,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '85.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/capsicum-yellow?variant=32604290678872', 'sku': 'CA5', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",85.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Carrot Black (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",,,"Amazing Health Benefits Of Carrot Black:-
+Boosts eye health
+Fights cholesterol and boosts heart health
+Lowers Blood Pressure
+Boosts skin health
+Boosts immunity",https://fastandfresh.in/products/carrot-black-price-per-500gms?variant=37653890597055,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/CARROTBLACK_500x.jpg?v=1606710222,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '30.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/carrot-black-price-per-500gms?variant=37653890597055', 'sku': '', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",30.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Carrot Pink (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",CA6,,"Amazing Health Benefits Of Carrots:
+Boosts eye health
+Fights cholesterol and boosts heart health
+Lowers Blood Pressure
+Boosts skin health
+Boosts immunity",https://fastandfresh.in/products/carrot-yellow-blr?variant=32604290809944,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/carrot_500x.jpg?v=1598459353,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '24.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/carrot-yellow-blr?variant=32604290809944', 'sku': 'CA6', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",24.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Carrot Red (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",CA7,,"
+
+
+Red carrots also have lycopene, which helps prevent heart disease.
+
+
+
+They boost your immune system . 
+
+
+The vitamin C in carrots helps your body build antibodies that defend your immune system.
+
+",https://fastandfresh.in/products/red-carrot-price-per-kg?variant=32630707224664,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/redcarrot_500x.jpg?v=1593016093,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '8.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/red-carrot-price-per-kg?variant=32630707224664', 'sku': 'CA7', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",8.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Cauliflower (Price per Pc/Approx. 650gms to 800gms),"{'@type': 'Brand', 'name': 'FFG'}",CA8,,"
+Health Benefits of Cauliflower-:
+
+
+
+High in Fiber. ...
+
+
+Good Source of Antioxidants. ...
+
+
+May Aid in Weight Loss. ...
+
+
+High in Choline. ...
+
+
+Rich in Sulforaphane. ...
+
+
+Low-Carb Alternative to Grains and Legumes. ...
+
+
+Easy to Add to Your Diet.
+
+",https://fastandfresh.in/products/cauliflower?variant=32603124662360,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/cauliflower_501x.jpg?v=1598459345,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '12.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/cauliflower?variant=32603124662360', 'sku': 'CA8', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",12.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Celery (Price per Bunch/Approx. 300gms to 400gms),"{'@type': 'Brand', 'name': 'FFG'}",CE1,,"Healthy Benefits of Adding Celery to Your Diet-:
+
+
+Celery is a great source of important antioxidants. ...
+
+
+Celery reduces inflammation. ...
+
+
+Celery supports digestion. ...
+
+
+Celery is rich in vitamins and minerals with a low glycemic index. ...
+
+
+Celery has an alkalizing effect.
+
+",https://fastandfresh.in/products/celery?variant=32604290908248,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/celery_501x.jpg?v=1598459354,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '44.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/celery?variant=32604290908248', 'sku': 'CE1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",44.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Chappal Tinda (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",CHA1,,"Tinda/Indian Round Gourd: Health Benefits, Nutrition,-:
+
+
+Augments Heart Function
+
+
+Detoxifies The Kidneys
+
+
+Enhances Digestive System
+
+
+Strengthens Respiratory Processes
+
+
+ ",https://fastandfresh.in/products/chappal-tinda-price-per-500gms?variant=37675827396799,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Chappaltinda_500x.png?v=1606893532,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '22.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/chappal-tinda-price-per-500gms?variant=37675827396799', 'sku': 'CHA1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",22.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Cherries  From Chile (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",CH1,,"
+Cherries are small stone fruits that come in a variety of colors and flavors. There are two major categories — tart and sweet cherries
+",https://fastandfresh.in/products/cherries-price-per-kg?variant=32901087232088,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/black-cherry01_500x.jpg?v=1607572535,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '490.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/cherries-price-per-kg?variant=32901087232088', 'sku': 'CH1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",490.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Chilli Green Thick Achari (Price per 250 gms),"{'@type': 'Brand', 'name': 'FAST AND FRESH GLOBAL LLP'}",CHIL3,,We Indians just love our Achar and cannot live without them accompanying our meals.,https://fastandfresh.in/products/chilli-green-thick-achari-price-per-250-gms?variant=33428923973720,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/CHILLYACHARI01_500x.jpg?v=1602904983,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '28.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/chilli-green-thick-achari-price-per-250-gms?variant=33428923973720', 'sku': 'CHIL3', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",28.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Chilli Red (Price per 100 gms),"{'@type': 'Brand', 'name': 'FAST AND FRESH GLOBAL LLP'}",,,"Every Chef's special ingredient, Rich source of Vitamin C : Red chillies are jam-packed with Vitamin C that helps in supporting the immune system and combat chronic diseases. Prevents heart ailments: There are very powerful antioxidants in red chilli that help in clearing blockages in blood vessels and arteries",https://fastandfresh.in/products/chilli-red-price-per-100-gms?variant=33428897333336,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/RED_CHILLI_pepper_500x.jpg?v=1602842533,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '14.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/chilli-red-price-per-100-gms?variant=33428897333336', 'sku': '', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",14.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Chilly Green (Price per 100 gms),"{'@type': 'Brand', 'name': 'FFG'}",CH2,," Health Benefits of Green Chillies-:
+
+
+Great for a healthy diet.
+
+
+Improve your skin regime
+
+
+Lower your body temperature.
+
+
+Balance blood sugar levels
+
+",https://fastandfresh.in/products/chilly-green?variant=32604290941016,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/chilligreen_500x.jpg?v=1598459355,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '7.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/chilly-green?variant=32604290941016', 'sku': 'CH2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",7.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Chilly Red Thick Achari (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",CHIL5,,"
+We Indians just love our Achar and cannot live without them accompanying our meals.
+",https://fastandfresh.in/products/chilly-red-thick-achari-price-per-250-gms?variant=37698011791551,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/RED_ACHARI-removebg-preview_500x.png?v=1607142556,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '27.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/chilly-red-thick-achari-price-per-250-gms?variant=37698011791551', 'sku': 'CHIL5', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",27.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Chives Herbs (Price per 250gms),"{'@type': 'Brand', 'name': 'FFG'}",CHI1,,"
+Benefits Of Chives For Skin And Health-:
+
+
+Protect The Heart
+
+
+Improve Bone Health
+
+
+Ease The Digestive Process
+
+
+Detoxify The Body 
+
+
+
+Boost Immunity
+
+
+Have Excellent Antimicrobial Properties
+
+",https://fastandfresh.in/products/chives-herbs-price-per-250gms?variant=33322791207000,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/CHIVES0101_500x.jpg?v=1599669059,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '62.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/chives-herbs-price-per-250gms?variant=33322791207000', 'sku': 'CHI1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",62.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Coconut  (Price per Pc),"{'@type': 'Brand', 'name': 'FFG'}",CO1,,"Amazing Benefits of Coconuts-:
+
+
+Provides Good Fats.
+
+
+Coconuts Enhances Weight Loss
+
+
+Keeps You Hydrated.
+
+
+Coconuts Fight Bacteria
+
+",https://fastandfresh.in/products/coconut?variant=32606825873496,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/coconutdry_500x.png?v=1598459377,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '46.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/coconut?variant=32606825873496', 'sku': 'CO1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",46.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,COMBO - 1,"{'@type': 'Brand', 'name': 'FAST AND FRESH GLOBAL LLP'}",COMBO1,,To shorten your time on the site we have chosen the 10 most used items. ,https://fastandfresh.in/products/combo-1?variant=37508899766463,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/combo1_360x.jpg?v=1609238035,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '325.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/combo-1?variant=37508899766463', 'sku': 'COMBO1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",325.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,COMBO - 2,"{'@type': 'Brand', 'name': 'FAST AND FRESH GLOBAL LLP'}",combo2,,The 4 most consumed fruits this season.,https://fastandfresh.in/products/combo-2?variant=37508919820479,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/combo2_396x.jpg?v=1609237278,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '300.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/combo-2?variant=37508919820479', 'sku': 'combo2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",300.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,COMBO - 3,"{'@type': 'Brand', 'name': 'FAST AND FRESH GLOBAL LLP'}",,,To shorten your time on the site we have chosen the 20 Items which are often used in kitchen.,https://fastandfresh.in/products/combo-3?variant=37879712317631,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/combo3_395x.jpg?v=1609233634,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '695.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/combo-3?variant=37879712317631', 'sku': '', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",695.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Corn Kernels (Pack of 200  gms),"{'@type': 'Brand', 'name': 'FFG'}",CO2,,"Health Benefits of Corn-:
+
+
+Energy Enhancer.
+
+
+Miracle for those underweight
+
+
+Lowers Blood Sugar &amp; Cholesterol Level
+
+
+Helpful during Pregnancy.
+
+",https://fastandfresh.in/products/corn-kernels-pack-of-200-gms?variant=32696000905304,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/cornkernels_500x.png?v=1593016098,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '22.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/corn-kernels-pack-of-200-gms?variant=32696000905304', 'sku': 'CO2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",22.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Cucumber  (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",CU1,,"Health Benefits of Eating Cucumber-:
+
+
+It's High in Nutrients
+
+
+It Contains Antioxidants
+
+
+It Promotes Hydration
+
+
+It May Aid in Weight Loss
+
+",https://fastandfresh.in/products/cucumber?variant=32604291039320,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/HYBRIDCUC_500x.jpg?v=1598459357,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '14.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/cucumber?variant=32604291039320', 'sku': 'CU1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",14.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Cucumber Seedless (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",CU3,,"Health Benefits of Eating Cucumber Seedless-:
+
+
+It Contains Antioxidants
+
+
+It Promotes Hydration.
+
+
+It May Aid in Weight Loss
+
+
+It Could Promote Regularity
+
+",https://fastandfresh.in/products/cucumber-seedless-price-per-500gms?variant=32820547354712,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/SEEDLESSCU_500x.jpg?v=1598459396,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '19.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/cucumber-seedless-price-per-500gms?variant=32820547354712', 'sku': 'CU3', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",19.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Curry Leaves  (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",CU4,,"some health benefits of curry leaves you cannot miss:
+
+
+Relieves morning sickness and nausea
+
+
+Eliminates bacteria
+
+
+Good for diabetics.
+
+
+Reduce stress.
+
+",https://fastandfresh.in/products/curry-leaves?variant=32604290842712,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/curryleaves_500x.jpg?v=1598459353,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '17.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/curry-leaves?variant=32604290842712', 'sku': 'CU4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",17.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,DATES FARAD (Price per Pkt 500gms),"{'@type': 'Brand', 'name': 'FFG'}",DA1,,"Health benefits of dates: 
+
+
+Lowers cholesterol
+
+
+Protein rich
+
+
+Improves bone health
+
+
+Strengthens the nervous system
+
+
+Promotes digestion
+
+",https://fastandfresh.in/products/dates-farad-price-per-pkt-250gms?variant=32885357903960,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/FARADDATES_500x.jpg?v=1599064054,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '196.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/dates-farad-price-per-pkt-250gms?variant=32885357903960', 'sku': 'DA1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",196.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Dhaniya / Coriander  (Price per 100 gms),"{'@type': 'Brand', 'name': 'FFG'}",DH1,,"
+Health benefits of Eating Coriander-:
+
+
+Coriander has multiple health benefits. 
+
+Dietary fiber, manganese, iron and magnesium as well.
+Rich in immune-boosting antioxidants
+",https://fastandfresh.in/products/coriander-leaves?variant=32604290973784,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/coriander_500x.jpg?v=1599668976,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '5.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/coriander-leaves?variant=32604290973784', 'sku': 'DH1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",5.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Dragon Fruit (Price per pcs/Approx. 400gms to 500gms),"{'@type': 'Brand', 'name': 'FFG'}",DRA1,,"Many benefits of Dragon fruit-:
+
+It can strengthen your immune system
+
+It may help lower your blood sugar. 
+It's naturally fat-free and high in fiber. ",https://fastandfresh.in/products/dragon-fruit-price-per-500gms?variant=33284399136856,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/DRAGONFRUITFFG_500x.jpg?v=1599064075,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '84.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/dragon-fruit-price-per-500gms?variant=33284399136856', 'sku': 'DRA1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",84.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,DRUMSTICKS (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",DR1,,"
+Benefits of Drumsticks-:
+
+
+Regulates blood sugar levels.
+
+Helps improve digestive health.
+Helps purifying blood.
+Boosts immunity
+",https://fastandfresh.in/products/drumsticks-price-per-250-gms?variant=32857301450840,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/fresh-drumstick-500x500_500x.jpg?v=1593016105,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '42.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/drumsticks-price-per-250-gms?variant=32857301450840', 'sku': 'DR1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",42.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Fresh Peas / Mattar (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",FR1,,"Why Green Peas are Healthy and Nutritious-:
+
+
+Builds Immunity
+
+
+Good for eye health
+
+
+Good for heart
+
+
+ Weight Loss
+
+",https://fastandfresh.in/products/fresh-peas-mattar-price-per-500gm?variant=32702178754648,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/peas_500x.jpg?v=1598459387,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '22.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/fresh-peas-mattar-price-per-500gm?variant=32702178754648', 'sku': 'FR1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",22.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Fresh Turmeric / Kachi Haldi (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",FR6,,"
+
+Boosts Digestion
+
+
+Provides relief from a host of tummy problems
+
+
+Anti-inflammatory properties
+
+
+Good for your skin
+
+
+Excellent antiseptic
+
+",https://fastandfresh.in/products/fresh-turmeric-kachi-haldi?variant=33203155239000,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/kachi-haldi_jpg_500x.png?v=1593016106,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '35.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/fresh-turmeric-kachi-haldi?variant=33203155239000', 'sku': 'FR6', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",35.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Galangal - Thai Ginger (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",GAL1,,"
+Health Benefits of Galangal -:
+
+
+May protect against infections
+
+
+May fight inflammation and pain
+
+
+May protect against certain cancers
+
+",https://fastandfresh.in/products/galangal-thai-ginger-250gms?variant=33110881566808,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/GALANGAL_500x.jpg?v=1598459415,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '218.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/galangal-thai-ginger-250gms?variant=33110881566808', 'sku': 'GAL1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",218.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Garlic Big Size (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",GA5,," Proven Health Benefits of Garlic-:
+
+
+Garlic Contains Compounds With Potent Medicinal Properties
+
+
+Garlic Is Highly Nutritious But Has Very Few Calories.
+
+
+Garlic Can Combat Sickness, Including the Common Cold. 
+
+
+The Active Compounds in Garlic Can Reduce Blood Pressure. 
+
+",https://fastandfresh.in/products/garlic-big-size-price-per-250gms?variant=33143308091480,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/garlic_6023e85a-2fad-477c-a2a4-16364957034f_500x.jpg?v=1598459417,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '66.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/garlic-big-size-price-per-250gms?variant=33143308091480', 'sku': 'GA5', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",66.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Garlic Green/Hara Lehsun (Price per 250gms),"{'@type': 'Brand', 'name': 'FFG'}",GAR3,,"Proven Health Benefits of Garlic Green-:
+
+
+Boosts immune system:
+
+
+Antibiotic:
+
+
+Rich in iron:
+
+
+Good for heart:
+
+
+Fights gastro-intestinal infections:
+
+",https://fastandfresh.in/products/garlic-green-hara-lehsun-price-per-250gms?variant=37776614424767,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/hara-lehsun_500x.jpg?v=1608099884,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '20.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/garlic-green-hara-lehsun-price-per-250gms?variant=37776614424767', 'sku': 'GAR3', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",20.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Garlic Medium (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",GA1,,"
+Surprising Health Benefits Of Garlic
+
+
+
+The Active Compounds in Garlic Can Reduce Blood Pressure. 
+
+
+
+Garlic Is Highly Nutritious But Has Very Few Calories.
+
+",https://fastandfresh.in/products/garlic-large?variant=32604291072088,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/garlic-1_500x.jpg?v=1598459357,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '48.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/garlic-large?variant=32604291072088', 'sku': 'GA1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",48.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Ginger (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",GI1,," Healthy Benefits of Ginger:
+
+
+Reduces Cold and Flu
+
+
+Good for Your Heart
+
+
+Treats Inflammation:
+
+
+Ginger Improves Brain Functionality
+
+
+Treats Muscle Pain
+
+
+At the moment we are delivering New Ginger.
+
+",https://fastandfresh.in/products/ginger?variant=32604291104856,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/ginger_500x.jpg?v=1598459358,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '16.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/ginger?variant=32604291104856', 'sku': 'GI1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",16.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Grape Fruit Imported / Chakotra (Price per Pc),"{'@type': 'Brand', 'name': 'FFG'}",GR1,,"Approx 1 Piece is 200 gms. Can add this in your Morning Breakfast Juice with Oranges and Carrots / Beet Root!!
+",https://fastandfresh.in/products/grape-fruit-imported-chakotra-price-per-piece?variant=32690462130264,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Grapefruit_700x.jpg?v=1598459385,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '70.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/grape-fruit-imported-chakotra-price-per-piece?variant=32690462130264', 'sku': 'GR1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",70.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Grapes Black (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",GR2,,A very sweet variety of grape. Season starts in November end in April.,https://fastandfresh.in/products/grapes-black-price-per-500gms?variant=32675804840024,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/grapesblack_500x.png?v=1598459382,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '96.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/grapes-black-price-per-500gms?variant=32675804840024', 'sku': 'GR2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",96.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Grapes Red Imported (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",GR4,,"       Many Health Benefits of Eating Grapes-:
+
+
+Packed With Nutrients, Especially Vitamins C and K. 
+
+
+High Antioxidant Contents May Prevent Chronic Diseases. 
+
+
+Plant Compounds May Protect Against Certain Types of Cancer. 
+
+
+Beneficial for Heart Health in Various Impressive Ways. 
+
+",https://fastandfresh.in/products/grapes-red-imported-price-per-500gms?variant=33225013723224,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/GRAPESREDIMPORTED_500x.png?v=1598459425,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '168.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/grapes-red-imported-price-per-500gms?variant=33225013723224', 'sku': 'GR4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",168.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Green Choliya/Chickpeas (Price per 200gms),"{'@type': 'Brand', 'name': 'FFG'}",CHO1,,"Green Choliya Benefits For Winter-:
+1.Rich In Protein: Just like their mature counterparts, green chickpeas are rich in protein, which is a satiating macronutrient, important for boosting muscle growth.
+2. Rich In Vitamins: Green chickpeas are a rich source of vitamins A and C, which are both important during winters, as they have antioxidant properties. Both help in boosting immunity and maintaining skin health.
+ ",https://fastandfresh.in/products/green-choliya-chickpeas-price-per-200gms?variant=37830893994175,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Choliya_Green_Chana_500x.jpg?v=1608526206,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '38.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/green-choliya-chickpeas-price-per-200gms?variant=37830893994175', 'sku': 'CHO1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",38.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Green Grapes (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",GR4,,A sweet variety of Grapes. Mostly grown in Nashik.,https://fastandfresh.in/products/green-grapes-price-per-500gms?variant=32675803267160,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/grapesgreen_500x.jpg?v=1598459382,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '90.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/green-grapes-price-per-500gms?variant=32675803267160', 'sku': 'GR4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",90.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Guava Fruit Big (Price per pcs/Approx. 400gms to 500gms),"{'@type': 'Brand', 'name': 'FFG'}",GUA1,,"Here are some benefits of Guava fruit-:
+
+
+Lowers Cholesterol. ...
+
+
+Heals Cold and Cough. 
+
+
+Reduces Acne. 
+
+
+Improves Skin Texture.
+
+",https://fastandfresh.in/products/guava-fruit-price-per-500gms?variant=33284426137688,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/GUAVA_501x.jpg?v=1599669047,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '85.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/guava-fruit-price-per-500gms?variant=33284426137688', 'sku': 'GUA1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",85.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Guava Fruit Small (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",GUA2,,"Healthy Benefits of Guava:
+
+
+Guava Boost your Immunity
+
+
+Prevents Diabetes
+
+
+Guavas Help in Keeping your Heart Healthy
+
+
+Guava is an Anti-stress Agent
+
+",https://fastandfresh.in/products/guava-fruit-small-price-per-kg?variant=33316043292760,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/GUAVA_500x.png?v=1606964313,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '32.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/guava-fruit-small-price-per-kg?variant=33316043292760', 'sku': 'GUA2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",32.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Himalayan Garlic (Price per 250gms),"{'@type': 'Brand', 'name': 'FFG'}",,,"
+ Health Benefits of Himalayan Single Clove Garlic-:
+
+Reduces High Cholesterol Levels
+Cures Cold &amp; Cough
+Helps Fight Cancer 
+Fights Diabetes
+Cures Heart Disease &amp; High Blood Pressure
+",https://fastandfresh.in/products/himalayan-garlic-price-per-250gms?variant=37979546255551,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/garlic_kashmir-removebg-preview_500x.png?v=1610700756,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '78.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/himalayan-garlic-price-per-250gms?variant=37979546255551', 'sku': '', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",78.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Honeydew Melon (Price per pcs Approx. 500gms to 600gms),"{'@type': 'Brand', 'name': 'FFG'}",HON1,,"Health Benefits of Honey-dew melon that you must know-:
+
+
+Muskmelon promoted hair growth 
+
+
+Muskmelon may support the vision and eye health 
+
+
+Muskmelon may boost immunity
+
+
+Muskmelon for beautiful-looking skin 
+
+
+Muskmelon may help combat stress 
+
+",https://fastandfresh.in/products/honeydew-melon-price-per-pcs-approx-500gms-to-600gms?variant=37929126133951,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Honeydew-melon_500x.jpg?v=1609992531,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '49.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/honeydew-melon-price-per-pcs-approx-500gms-to-600gms?variant=37929126133951', 'sku': 'HON1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",49.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Imported Pears (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",IM1,,"Here are impressive health benefits of pears-:
+
+
+May promote gut health
+
+
+Have anti-inflammatory properties
+
+
+Linked to a lower risk of diabetes
+
+
+May boost heart health
+
+",https://fastandfresh.in/products/pears-imported?variant=32606825250904,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/pearsimported_500x.jpg?v=1593016112,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '105.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/pears-imported?variant=32606825250904', 'sku': 'IM1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",105.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Jimikand / Yam (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",JI1,,"Benefits Of  Yam (Jimikand)-:
+
+
+Lowering Cholesterol
+
+
+Anticoagulant and Anti-inflammatory
+
+
+Slow down ageing
+
+
+Control Diabetes
+
+
+Detoxification
+
+",https://fastandfresh.in/products/jimikand-yam-price-per-500-gms?variant=32893167829080,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/YAM_500x.jpg?v=1598459405,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '26.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/jimikand-yam-price-per-500-gms?variant=32893167829080', 'sku': 'JI1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",26.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Kachalu (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",KAC1,,"Here are 7 health benefits of KACHALU .
+
+Rich in Fiber and Other Important Nutrients. 
+May Help Control Blood Sugar. 
+May Reduce Your Risk of Heart Disease. 
+May Offer Anticancer Properties. 
+May Help You Lose Weight. 
+",https://fastandfresh.in/products/kachalu-price-per-500gms?variant=33238537830488,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/KACHALOO01_500x.jpg?v=1598459426,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '22.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/kachalu-price-per-500gms?variant=33238537830488', 'sku': 'KAC1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",22.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Kaffir Lime leaves Thai (Price per 100gms),"{'@type': 'Brand', 'name': 'FFG'}",LEM1,,"Incredible Health Benefits of Lemon leaves-:
+
+
+
+Stress, Stress Go Away
+
+
+Bad Breath No More
+
+
+No Bacteria Allowed
+
+
+Get Healthy, Glowing Skin
+
+",https://fastandfresh.in/products/lemon-leaves-thai-price-per-100gms?variant=33316155654232,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/LEMONLEAVES_500x.jpg?v=1599669053,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '82.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/lemon-leaves-thai-price-per-100gms?variant=33316155654232', 'sku': 'LEM1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",82.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Kale Leaves (Price per 250gms),"{'@type': 'Brand', 'name': 'FFG'}",KA1,,"Kale Health Benefits-:
+
+
+Vitamin A (important for eye and bone health and a strong immune system), vitamin C (aids in cold and chronic disease prevention), and vitamin K (good for blood clotting and bone building)
+
+
+Folate, a B vitamin that's key for brain development.
+
+Alpha-linolenic acid, an omega-3 fatty acid.
+",https://fastandfresh.in/products/kale-leaves-price-per-250gms?variant=37499506491583,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/KALE_LEAVES-removebg-preview_450x.png?v=1604907137,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '20.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/kale-leaves-price-per-250gms?variant=37499506491583', 'sku': 'KA1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",20.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Kamal Kakdi (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",KAM1,,"Kamal Kakdi, also known as Lotus Root has many medicinal benefits -
+
+
+It Boosts Digestion, has high amounts of dietary fiber, which helps boost digestion and helps in weight loss.....
+
+
+
+Regulates Blood Pressure and Reduces Stress...
+
+
+
+Is Good for Your Skin and Hair. ...
+
+
+Prevents Water Retention.
+
+",https://fastandfresh.in/products/kamal-kakdi-price-per-500gms?variant=33179972796504,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/20200725_110032_500x.jpg?v=1598459420,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '44.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/kamal-kakdi-price-per-500gms?variant=33179972796504', 'sku': 'KAM1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",44.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Karela (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",KA3,,"
+Here are some karela benefits that you need to look out for:
+
+
+
+Helps in maintaining blood sugar levels
+
+
+Lowers bad cholesterol levels
+
+
+For glowing skin and lustrous hair
+
+
+Boosts your immune system
+
+",https://fastandfresh.in/products/karela?variant=32604291137624,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/KAREAL0101_500x.jpg?v=1596644899,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '26.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/karela?variant=32604291137624', 'sku': 'KA3', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",26.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Kashmiri Haak Saag (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",KAS1,,"Health benefits of Kashmiri HAAKH ( Collard Greens )-:
+
+
+Wonderfully nutritious collard leaves are very low in calories (provide only 30 calories per 100 g)
+
+
+very good amount of soluble and insoluble dietary fiber that helps control LDL cholesterol levels and offer protection against hemorrhoids
+
+",https://fastandfresh.in/products/kashmiri-haak-saag-price-per-500gms?variant=37602698723519,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/KASHMIRIHAAKSAAG_500x.jpg?v=1606103825,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '24.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/kashmiri-haak-saag-price-per-500gms?variant=37602698723519', 'sku': 'KAS1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",24.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Kathal Cut Raw (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",KA4,,"Here Are  Incredible Benefits of Kathal-:
+
+
+Helps in Curing Mental Stress and Skin Diseases
+
+
+Prevents Anaemia
+
+
+Healthy Hair and Good Eyesight
+
+
+Prevents Indigestion
+
+",https://fastandfresh.in/products/kathal-cut-price-per-500-gms?variant=32798170972248,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Kathal_500x.jpg?v=1598459395,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '40.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/kathal-cut-price-per-500-gms?variant=32798170972248', 'sku': 'KA4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",40.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Kinnow Juicy (Price per kg),"{'@type': 'Brand', 'name': 'FFG'}",KIN1,,"Know the health benefits of eating winter fruit ‘kinnow’-:
+
+
+Boosts immune system
+
+
+Detoxifies body
+
+
+Lowers blood pressure
+
+
+Balances cholesterol levels
+
+
+Anti-aging
+
+",https://fastandfresh.in/products/kinnow-juicy-price-per-kg?variant=37554187993279,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/KINNOW_450x.jpg?v=1605680418,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '18.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/kinnow-juicy-price-per-kg?variant=37554187993279', 'sku': 'KIN1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",18.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Kiwi (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",KI1,,"Health Benefits of Kiwi-:
+
+
+Helps treat asthma.
+
+
+Aids digestion.
+
+
+Boosts immune system.
+
+
+Helps prevent sickness.
+
+
+Manages blood pressure.
+
+
+Reduces blood clotting.
+
+
+Protects against vision loss.
+
+",https://fastandfresh.in/products/kiwi?variant=32606825087064,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/kiwi_500x.jpg?v=1598459373,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '98.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/kiwi?variant=32606825087064', 'sku': 'KI1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",98.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Knol Khol/Gaanth Gobhi (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",KNO1,,"Health benefits of knol-Khol-:
+
+
+High in antioxidants
+
+
+Promotes a healthy gut
+
+
+May lower your risk of heart disease
+
+
+Supports a healthy immune system
+
+",https://fastandfresh.in/products/knol-khol-gaanth-gobhi-price-per-500gms?variant=33443215245400,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/KNOLKHOL_500x.jpg?v=1603345506,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '22.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/knol-khol-gaanth-gobhi-price-per-500gms?variant=33443215245400', 'sku': 'KNO1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",22.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Kundru (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",KU1,,"Health Benefits Of Kundru -:
+
+
+
+Kundru Gourd Prevents Obesity
+
+
+Kundru Gourd for Fatigue
+
+
+kundru Defends Nervous System
+
+
+Kundru Improved Digestion
+
+
+
+",https://fastandfresh.in/products/kundru-price-per-250?variant=32781134626904,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/IvyGourd_kundru_1_500x.jpg?v=1598459392,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '24.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/kundru-price-per-250?variant=32781134626904', 'sku': 'KU1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",24.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Lady Finger / Bhindi (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",LA1,,"Here are amazing Lady Finger Benefits :
+
+
+Bhindi Good for Eyes
+
+
+Helps in production of RBC's
+
+
+Lady Finger Benefits Immunity
+
+
+Bhindi good for Diabetics
+
+",https://fastandfresh.in/products/lady-finger?variant=32604291399768,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/ladyfinger_500x.jpg?v=1598459359,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '38.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/lady-finger?variant=32604291399768', 'sku': 'LA1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",38.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Lauki (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",LA3,," incredible benefits of Lauki-:
+
+
+Cools your body
+
+
+Helps in weight loss.
+
+
+Cures tummy troubles
+
+
+Keep your heart healthy
+
+",https://fastandfresh.in/products/lauki?variant=32604291432536,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/lauki_500x.jpg?v=1598459360,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '12.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/lauki?variant=32604291432536', 'sku': 'LA3', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",12.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Leeks (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",LE1,,"Why leeks are good to eat-:
+
+They also contain minerals such as iron (which is important for red blood cells)
+
+
+
+Leeks are also a good source of dietary fibre.
+
+
+
+Leeks are a good source of vitamins A, C and K 
+
+
+",https://fastandfresh.in/products/leeks-price-per-500gms?variant=32743532134488,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/leek_500x.jpg?v=1598459390,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '24.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/leeks-price-per-500gms?variant=32743532134488', 'sku': 'LE1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",24.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Lemon / Nimbu (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",LE2,,"Here are some benefit from lemon-:
+
+
+It promotes hydration
+
+
+It's a good source of vitamin C
+
+
+It supports weight loss
+
+
+It aids digestion
+
+",https://fastandfresh.in/products/lemon-nimbu?variant=32604291465304,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/lemon_500x.jpg?v=1593016121,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '25.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/lemon-nimbu?variant=32604291465304', 'sku': 'LE2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",25.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Lemon Grass  (Price per 100 Gms),"{'@type': 'Brand', 'name': 'FFG'}",LE3,,"
+Wonderful Benefits of Lemongrass -:
+
+Lemongrass might help prevent the growth of some bacteria and yeast
+Lemongrass to relieve pain and swelling, reduce fever
+Lemon grass have antioxidant properties.
+",https://fastandfresh.in/products/lemon-grass-250-gms?variant=33066358276184,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/LEMONGRASS_500x.jpg?v=1598459411,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '10.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/lemon-grass-250-gms?variant=33066358276184', 'sku': 'LE3', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",10.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Lettuce Green (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",LE4,,A Green Leafy Lettuce were are growing on FFG Farms.,https://fastandfresh.in/products/lettuce-green-price-per-500-gms?variant=32839131463768,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/lettuce-green-500x500_500x.jpg?v=1598459397,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '14.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/lettuce-green-price-per-500-gms?variant=32839131463768', 'sku': 'LE4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",14.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Lettuce Iceburg (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",LE5,,"
+Benefits of Iceberg Lettuce -:
+
+Although it's low in fiber, it has a high water content
+
+
+calcium, potassium, vitamin C, and folate. 
+
+Daily requirements for several vitamins and minerals.
+
+",https://fastandfresh.in/products/lettuce-iceburg?variant=32604291498072,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/lettuceiceberg_500x.jpg?v=1598459361,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '48.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/lettuce-iceburg?variant=32604291498072', 'sku': 'LE5', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",48.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Lettuce Rocket leaves/Arugula (Price per 100gms),"{'@type': 'Brand', 'name': 'FFG'}",LET4,,"What are the benefits of arugula-:
+
+Calcium, which helps the blood to clot normally. ...
+Potassium, a mineral and an electrolyte that's vital for heart and nerve function. ...
+
+Folate, a B vitamin. ...
+
+
+Vitamin C, a powerful antioxidant that helps support the immune system. ...
+
+
+Vitamin K, which helps with blood coagulation.
+
+
+",https://fastandfresh.in/products/lettuce-rocket-leaves-arugula-price-per-250gms?variant=33322785177688,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/rocket-leaves_500x.jpg?v=1600878913,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '25.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/lettuce-rocket-leaves-arugula-price-per-250gms?variant=33322785177688', 'sku': 'LET4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",25.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Mango Raw (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",MA8,,"
+Benefits Of Raw Mango:
+
+
+
+Protects From Intense Heat And Dehydration
+
+
+ Cures Stomach Troubles
+
+
+Good For The Heart
+
+
+ Promotes Health Of Liver And Intestine
+
+
+ ",https://fastandfresh.in/products/mango-raw-price-per-500gms?variant=32630681862232,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/raw_mango_500x.jpg?v=1596644915,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '80.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/mango-raw-price-per-500gms?variant=32630681862232', 'sku': 'MA8', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",80.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Melon Japanese (Price Approx. 1kg to 1.5kg),"{'@type': 'Brand', 'name': 'FFG'}",MEL1,,"Health Benefits of Melon Japanese-:
+
+Helps Maintain Blood Sugar Levels. ...
+Improves Heart Health. ...
+Improves Immune System Health. ...
+Cleanses the Liver. ...
+Aids in Weight Loss. ...
+Improves Skin and Hair Health.
+",https://fastandfresh.in/products/melon-japanese-price-approx-1kg-to-1-5kg?variant=37674550526143,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/melonjapanese_500x.png?v=1606878563,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '1085.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/melon-japanese-price-approx-1kg-to-1-5kg?variant=37674550526143', 'sku': 'MEL1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",1085.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Methi Leaves/Fenugreek (Price per 250gms),"{'@type': 'Brand', 'name': 'FFG'}",MET1,,"Methi/Fenugreek: An Herb with Impressive Health Benefits-:
+
+
+Cholesterol levels. Some evidence indicates that fenugreek can lower cholesterol and triglyceride levels.
+
+
+Appetite control. So far, 3 studies show a reduction in fat intake and appetite.
+
+",https://fastandfresh.in/products/methi-leaves-fenugreek-price-per-250gms?variant=33316215619672,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Methi_500x.jpg?v=1599669055,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '10.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/methi-leaves-fenugreek-price-per-250gms?variant=33316215619672', 'sku': 'MET1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",10.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Micro Greens Amaranths (Price per pkt Approx. 20gms),"{'@type': 'Brand', 'name': 'FFG'}",MIC1,,"Amaranth Is Highly Nutritious-:
+Amaranth is a good source of health-promoting antioxidants.
+
+
+
+Calories: 251
+
+
+
+Protein: 9.3 grams
+
+
+
+Carbs: 46 grams
+
+
+
+Fat: 5.2 grams
+
+
+
+Amaranth is high in protein and fiber, both of which can aid your weight loss efforts.
+
+
+",https://fastandfresh.in/products/micro-greens-amaranths-price-per-pkt-approx-20gms?variant=37783771513023,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/MICROGREENAMRENTHUSRED_500x.png?v=1608189886,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '199.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/micro-greens-amaranths-price-per-pkt-approx-20gms?variant=37783771513023', 'sku': 'MIC1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",199.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Micro Greens Cress (Price per pkt Approx. 20gms),"{'@type': 'Brand', 'name': 'FFG'}",MIC5,,"Impressive Health Benefits of Cress-:
+
+Packed with Nutrients, Particularly Vitamin K. 
+
+High Antioxidant Content May Lower Your Risk of Chronic Diseases.
+
+Contains Compounds That May Prevent Certain Types of Cancer. 
+Beneficial for Heart Health in Many Impressive Ways. 
+Mineral and Vitamin K Contents Protect Against Osteoporosis.
+
+",https://fastandfresh.in/products/micro-greens-cress-price-per-pkt-approx-20gms?variant=37784008458431,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/CressMicrogreen_500x.png?v=1608193205,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '199.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/micro-greens-cress-price-per-pkt-approx-20gms?variant=37784008458431', 'sku': 'MIC5', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",199.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Micro Greens Musturd leaves (Price per pkt Approx. 50gms),"{'@type': 'Brand', 'name': 'FFG'}",MIC3,,"
+
+
+Benefits of mustard micro-greens-:
+
+
+Mustard greens are full of great peppery, rich flavour, yet so light in calories, you can eat as much as you want.
+
+
+
+ Mustard microgreens is dense with protein, fibre, folate, calcium, iron. * These microgreens are capable for fighting with diabetes and other lifestyle conditions. 
+
+
+",https://fastandfresh.in/products/micro-greens-musturd-leaves-price-per-pkt-approx-50gms?variant=37783893049535,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/MUSTURD_500x.png?v=1608191040,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '199.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/micro-greens-musturd-leaves-price-per-pkt-approx-50gms?variant=37783893049535', 'sku': 'MIC3', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",199.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Micro Greens Radish (Price per pkt Approx. 50gms),"{'@type': 'Brand', 'name': 'FFG'}",MIC4,,"Healthiest and Tastiest Microgreens to Eat and Grow-:
+
+They contain vitamins A, B, C, E, and K, they also deliver calcium iron, magnesium, phosphorus, potassium, and zinc. But that's not all.
+The antioxidants present in microgreens help to reduce the stress that can prevent sugar from properly entering cells.
+Radish microgreens containing antioxidant-rich components like a high concentration of polyphenols, causing helps to reduce Alzheimer’s disease risk.
+",https://fastandfresh.in/products/micro-greens-radish-price-per-pkt-approx-50gms?variant=37783950196927,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/RADSIH_500x.png?v=1608191721,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '199.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/micro-greens-radish-price-per-pkt-approx-50gms?variant=37783950196927', 'sku': 'MIC4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",199.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Micro Greens Red Rose Radish (Price per pkt Approx. 35gms),"{'@type': 'Brand', 'name': 'FFG'}",MIC2,,"Rose Radish Microgreens Benefits-:
+
+
+Radish Red Micro are rich in essential amino acids and chlorophyll which has all sorts of benefits from cancer-fighting properties to digestive aid
+
+
+Microgreen Red Rose Radish is an excellent source of Vitamine B6 and Folate which boasts healthy cardiovascular system in your body.
+
+",https://fastandfresh.in/products/micro-greens-red-rose-radish-price-per-pkt-approx-35gms?variant=37783797203135,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/MICROGREENREDROSERADSIH_500x.png?v=1608190317,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '199.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/micro-greens-red-rose-radish-price-per-pkt-approx-35gms?variant=37783797203135', 'sku': 'MIC2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",199.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Mongri Fali/Radish Pods (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",MON1,,"Radish PodsHealth Benefits-:
+
+
+Radish pods are known to be rich in ascorbic acid, folic acid and potassium
+
+
+They are a good source of vitamin B6, riboflavin, copper, magnesium, and calcium.
+
+
+One cup of sliced red radish bulbs are said to be beneficial for health issues including cough, gastric discomfort and intestinal disorders.
+
+",https://fastandfresh.in/products/mongri-fali-radish-pods-price-per-500gms?variant=33424866738264,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/MONGRIFALI_500x.png?v=1602912724,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '38.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/mongri-fali-radish-pods-price-per-500gms?variant=33424866738264', 'sku': 'MON1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",38.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Mushroom (Price per Punnet of 200 gms),"{'@type': 'Brand', 'name': 'FFG'}",MU1,,"
+The health benefits of mushrooms-:
+
+Mushrooms may help keep you young.
+Mushrooms can protect your brain as you age.
+Mushrooms may boost your memory.
+Mushrooms can help your heart health.
+
+
+
+
+",https://fastandfresh.in/products/mushroom-fresh?variant=32604291563608,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/MUSHROOM_500x.jpg?v=1594226525,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '48.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/mushroom-fresh?variant=32604291563608', 'sku': 'MU1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",48.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Onion Large (Price per Kg),"{'@type': 'Brand', 'name': 'FFG'}",ON1,," Impressive Health Benefits of Onions-:
+
+
+May Benefit Heart Health.
+
+
+Loaded With Antioxidants
+
+
+Help Control Blood Sugar
+
+
+May Boost Bone Density.
+
+
+Have Antibacterial Properties
+
+",https://fastandfresh.in/products/onion?variant=32603098087512,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/ONION_500x.jpg?v=1593016133,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '48.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/onion?variant=32603098087512', 'sku': 'ON1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",48.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Onion Sambhar (Price per 250gms),"{'@type': 'Brand', 'name': 'FFG'}",ONI4,,"Here are  impressive health benefits of onions.
+
+
+Packed With Nutrients. ...
+
+
+May Benefit Heart Health. ...
+
+
+Loaded With Antioxidants. ...
+
+
+Contain Cancer-Fighting Compounds. ...
+
+
+Help Control Blood Sugar. ...
+
+
+May Boost Bone Density. ..
+
+",https://fastandfresh.in/products/onion-sambhar-price-per-250gms?variant=33300174241880,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/SAMBHARONION_500x.jpg?v=1599064078,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '13.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/onion-sambhar-price-per-250gms?variant=33300174241880', 'sku': 'ONI4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",13.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Orange Imported  (Price per 500gm),"{'@type': 'Brand', 'name': 'FFG'}",OR1,,"
+Health Benefits of Eating Oranges
+
+
+
+Healthy immune system
+
+
+Prevents skin damage
+
+
+Keeps blood pressure under check
+
+
+Lowers cholesterol.
+
+",https://fastandfresh.in/products/orange-imported?variant=32606825152600,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/valenciaorange_500x.jpg?v=1593016134,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '88.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/orange-imported?variant=32606825152600', 'sku': 'OR1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",88.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Papaya (Price per Pcs 1.25kg to 1.75kg),"{'@type': 'Brand', 'name': 'FFG'}",PA1,,"Approx 1.25 Kgs to 1.75 Kgs per piece. Very healthy to eat in the morning. 
+Benefits of eating papaya-:
+
+
+Aids digestion.
+
+
+Anti-ageing
+
+
+Boosts Immunity
+
+
+Better kidney health
+
+
+Great for diabetics
+
+",https://fastandfresh.in/products/papaya-disco?variant=32606825185368,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Papaya-1200x800_500x.jpg?v=1600878855,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '50.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/papaya-disco?variant=32606825185368', 'sku': 'PA1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",50.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Parsley (Price per 100 gms),"{'@type': 'Brand', 'name': 'FFG'}",PA3,,"Impressive Health Benefits and Uses of Parsley-:
+
+
+Rich in antioxidants
+
+
+Supports bone health.
+
+
+Rich in nutrients that protect your eyes
+
+
+May improve heart health
+
+",https://fastandfresh.in/products/parsley?variant=32604291629144,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/parsley_500x.jpg?v=1598459363,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '39.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/parsley?variant=32604291629144', 'sku': 'PA3', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",39.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Passion Fruit (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",PAS1,,"What are the health benefits of passion fruit?
+
+
+Provides key nutrients
+
+
+Rich in antioxidants
+
+
+Good source of fiber
+
+
+Low glycemic index
+
+
+Supports heart health
+
+",https://fastandfresh.in/products/passion-fruit-price-per-500gms?variant=37674393862335,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/PASSIONFRUIT-removebg-preview_500x.jpg?v=1607054760,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '237.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/passion-fruit-price-per-500gms?variant=37674393862335', 'sku': 'PAS1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",237.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Peeled Coconut Water (Price per Pc),"{'@type': 'Brand', 'name': 'FFG'}",PE1,,"
+Health Benefits Of Drinking Tender Coconut Water-:
+
+
+Hydrates Naturally
+
+
+Resolves Stomach issues
+
+
+Restores electrolytes
+
+
+Regulates Bowel Movements
+
+
+Increases blood circulation
+
+",https://fastandfresh.in/products/coconut-dhab?variant=32606825906264,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/green-water-coconut-1542192906-4453250_500x.jpg?v=1598459377,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '46.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/coconut-dhab?variant=32606825906264', 'sku': 'PE1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",46.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Petha Big White (Price 4kg and above per pc),"{'@type': 'Brand', 'name': 'FFG'}",PE1,,"
+Benefits of Petha (White Gourd)-:
+
+
+
+Hysteria: The fresh juice of the ripe fruit is useful in hysteria
+
+
+
+General Tonic: Petha is also used as tonic to strengthen the body system.
+
+
+It is used in the treatment of diabetes mellitus.
+
+
+It gives the feeling of calmness thus acts like as a stress buster.
+
+",https://fastandfresh.in/products/petha-big-white-price-4kg-and-above-per-pc?variant=33303846420568,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/PETHA_7bc8f9ca-3a91-4579-abc3-6a31b470883b_500x.jpg?v=1599064079,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '59.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/petha-big-white-price-4kg-and-above-per-pc?variant=33303846420568', 'sku': 'PE1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",59.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Petha White / Ash Gourd (Price per Piece of 1.4kg to 2kg),"{'@type': 'Brand', 'name': 'FFG'}",PE2,,"
+
+Boosts vision 
+
+
+Protects the heart 
+
+
+ Boosts immunity 
+
+
+Stimulates growth &amp; development
+
+
+ Detoxifies the body &amp; Helps diabetic patients.
+
+",https://fastandfresh.in/products/petha-white-price-per-piece-of-2-4kg?variant=32630685040728,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/petha_500x.jpg?v=1599064035,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '44.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/petha-white-price-per-piece-of-2-4kg?variant=32630685040728', 'sku': 'PE2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",44.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Pineapple (Price per Pc/Approx. 900gms to 1.1kg),"{'@type': 'Brand', 'name': 'FFG'}",PI1,,"Here are  impressive health benefits of pineapple.
+
+
+Loaded With Nutrients
+
+
+Contains Disease-Fighting Antioxidants
+
+
+Its Enzymes Can Ease Digestion.
+
+
+May Boost Immunity and Suppress Inflammation.
+
+
+May Ease Symptoms of Arthritis
+
+",https://fastandfresh.in/products/pineapple-price-per-piece-approx-1-1-2kg?variant=32635157872728,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/PINEAPPLE_501x.jpg?v=1593016139,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '56.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/pineapple-price-per-piece-approx-1-1-2kg?variant=32635157872728', 'sku': 'PI1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",56.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Plums Imported (Spain) (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",PL1,,"Plum Health Benefits-:
+
+
+Anxiety . A plum a day may keep anxiety away. 
+
+
+Constipation Relief. 
+
+
+High blood pressure and stroke. 
+
+
+Rich in antioxidants. 
+
+
+Reduce blood sugar. 
+
+
+Bone health.
+
+",https://fastandfresh.in/products/plums-imported?variant=32606825218136,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Spain-plum_500x.jpg?v=1608269866,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '168.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/plums-imported?variant=32606825218136', 'sku': 'PL1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",168.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Pokchoy (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",PO1,,Used in chinese and Thai cusines. ,https://fastandfresh.in/products/pokchoy?variant=32604291661912,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/pokchoy_500x.jpg?v=1598459363,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '24.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/pokchoy?variant=32604291661912', 'sku': 'PO1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",24.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Pomelo Thai fruit(Price 1kg to 1.5kg per Pcs),"{'@type': 'Brand', 'name': 'FFG'}",POM1,,"Health Benefits of Pomelo-:
+
+
+Full of fiber. One pomelo offers 6 grams of fiber. ...
+
+
+May promote weight loss. ...
+
+
+Rich in antioxidants. ...
+
+
+May boost heart health. ...
+
+
+May have anti-aging properties. ...
+
+
+May be antibacterial and antifungal. ...
+
+
+May fight cancer cells.
+
+",https://fastandfresh.in/products/pomelo-thai-fruitprice-1kg-to-1-5kg-per?variant=33300167491672,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/POMELLO_500x.jpg?v=1599064077,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '550.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/pomelo-thai-fruitprice-1kg-to-1-5kg-per?variant=33300167491672', 'sku': 'POM1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",550.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Potato Chipsona (Price per Kg),"{'@type': 'Brand', 'name': 'FFG'}",PO4,,"A variety of Potato which is Grown in Himachal.
+
+
+
+No fat, sodium or cholesterol.
+
+
+More potassium than a banana.
+
+
+A good source of vitamin B6
+
+
+Fiber, magnesium and antioxidants.
+
+
+ ",https://fastandfresh.in/products/potato-pahari-price-per-kg?variant=32719159623768,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/potatopahari_500x.png?v=1594226555,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '37.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/potato-pahari-price-per-kg?variant=32719159623768', 'sku': 'PO4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",37.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Potato Dum (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",PO2,,"
+
+
+The potato's fiber, potassium, vitamin C, and vitamin B6 content,
+
+
+
+Potatoes contain significant amounts of fiber.
+
+",https://fastandfresh.in/products/potato-small-dum?variant=32604291694680,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/potatodumsmall_500x.jpg?v=1598459364,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '14.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/potato-small-dum?variant=32604291694680', 'sku': 'PO2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",14.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Potato New (Price per Kg),"{'@type': 'Brand', 'name': 'FFG'}",PO3,,"Health and Nutrition Benefits of Potatoes-:
+
+
+Contain Antioxidants
+
+
+May Improve Blood Sugar Control
+
+
+ May Improve Digestive Health
+
+
+Naturally Gluten-Free
+
+",https://fastandfresh.in/products/potato-new-price-per-kg?variant=37521568268479,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/POTATO_500x.jpg?v=1605169279,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '17.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/potato-new-price-per-kg?variant=37521568268479', 'sku': 'PO3', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",17.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Potato Red (Price per Kg),"{'@type': 'Brand', 'name': 'FFG'}",PO5,,"HEALTHY REASONS TO DIG INTO RED POTATOES-:
+
+
+Lower Stress Levels
+
+
+Increased Energy
+
+
+Naturally Fat Free
+
+
+Healthy Blood Pressure
+
+
+Naturally Gluten Free
+
+",https://fastandfresh.in/products/potato-red-price-per-kg?variant=32707826548824,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/potatored_500x.png?v=1593016143,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '21.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/potato-red-price-per-kg?variant=32707826548824', 'sku': 'PO5', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",21.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Pudina (Price per 100 gms),"{'@type': 'Brand', 'name': 'FFG'}",PU1,,"
+Health Benefits of Mint-:
+
+
+Mint soothes the stomach instantly and works wonders
+
+
+when it comes to treating tummy troubles. It is rich in antioxidants,
+
+
+May improve brain function and cold symptoms. 
+
+
+ It's anti-inflammatory.
+
+
+It's got immune-boosting .
+
+
+ ",https://fastandfresh.in/products/pudina-mint?variant=32604291727448,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/pudina_500x.jpg?v=1599668983,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '9.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/pudina-mint?variant=32604291727448', 'sku': 'PU1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",9.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Radish / Mooli White (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",MO1,,"
+Healthy Reasons to Add Radish to Your Diet-:
+
+
+Vitamins E, A, C, B6, and K. Plus it's high on antioxidants, fiber, zinc, potassium,
+
+And each of these is known to keep our body in good working condition
+",https://fastandfresh.in/products/raddish-white?variant=32604291825752,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Radish-mooli_500x.jpg?v=1598459366,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '12.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/raddish-white?variant=32604291825752', 'sku': 'MO1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",12.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Radish red/Lal mooli (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",RAD1,,"Radish Health Benefits You Need to Know-:
+
+
+Improve the look of your skin
+
+
+Keep you hydrated
+
+
+Support a healthy heart
+
+
+Keep your digestive system moving
+
+
+Lower blood pressure
+
+",https://fastandfresh.in/products/radish-red-lal-mooli-price-per-500gms?variant=33452371116120,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/radishesred_500x.png?v=1603684813,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '43.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/radish-red-lal-mooli-price-per-500gms?variant=33452371116120', 'sku': 'RAD1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",43.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Rambutan Thai Fruit (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",RAM1,,"Health Benefits of Rambutan-:
+Reduces Bad Cholesterol
+ Prevention of Anemia
+Cleaning Kidneys
+Immunity Booster",https://fastandfresh.in/products/rambutan-thai-fruit-price-per-500gms?variant=33431489478744,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/RAMBUTAN_500x.jpg?v=1602925256,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '660.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/rambutan-thai-fruit-price-per-500gms?variant=33431489478744', 'sku': 'RAM1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",660.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Raspberry/Cape Goosberry (Price per 250gms),"{'@type': 'Brand', 'name': 'FFG'}",RAS1,,"Marvelous Health Benefits of Cape Gooseberries (Rasbharies)-:
+
+
+Store house of Vitamin C and antioxidants
+
+
+Good for your eyes
+
+
+Controls high blood pressure
+
+
+Bone strength
+
+
+Can control diabetes
+
+
+ ",https://fastandfresh.in/products/raspberry-cape-goosberry-price-per-250gms?variant=37892347920575,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/cape-gooseberry_500x.jpg?v=1609395157,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '60.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/raspberry-cape-goosberry-price-per-250gms?variant=37892347920575', 'sku': 'RAS1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",60.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Ratalu/Yam (Price per kg),"{'@type': 'Brand', 'name': 'FFG'}",RAT1,,"Here are health and nutrition benefits of Ratalu.
+
+Packed with nutrition. Yams are rich in vitamins, minerals, and fiber. ...
+May enhance brain function. ...
+May ease symptoms of menopause. ...
+May have cancer-fighting properties. ...
+May reduce inflammation. ...
+May improve blood sugar control. ...
+Easy to add to your diet.
+",https://fastandfresh.in/products/ratalu-yam-price-per-kg?variant=33443252699224,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/RATALU_500x.png?v=1603346924,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '76.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/ratalu-yam-price-per-kg?variant=33443252699224', 'sku': 'RAT1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",76.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Raw Papaya (Price per Pc/Approx. 900gms to 1.1kg),"{'@type': 'Brand', 'name': 'FFG'}",RA1,,"Health Benefits of Raw Green Papaya-:
+
+
+ 
+
+Soothes inflammation:
+
+
+
+Eliminates toxins
+
+
+Gree Papaya Good For Skin Infection:
+
+
+Arrests Bad cholesterol: 
+
+
+Green Papaya Prevents Heart Problem
+
+",https://fastandfresh.in/products/raw-papaya-price-per-piece?variant=32787630587992,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/papayaraw_500x.jpg?v=1598459394,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '42.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/raw-papaya-price-per-piece?variant=32787630587992', 'sku': 'RA1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",42.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Red Pumpkin (Price per Pc/Approx. 2kg to 2.5kg),"{'@type': 'Brand', 'name': 'FFG'}",RE1,,"
+Wonderfully unique, the Red Pumpkin Pachadi stands out from others in its combined use of curds and coconut milk.
+",https://fastandfresh.in/products/red-pumpkin-price-per-pc?variant=32930769109080,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/redpumpkin_701x.jpg?v=1598459407,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '50.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/red-pumpkin-price-per-pc?variant=32930769109080', 'sku': 'RE1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",50.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Round Lauki/Bottle gourd Round (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",LAU2,,"Incredible Benefits of Bottle Gourd (Lauki) -:
+
+
+Cools your body
+
+
+Helps in weight loss
+
+
+ Cures tummy troubles
+
+
+ Keep your heart healthy
+
+",https://fastandfresh.in/products/round-lauki-bottle-gourd-round-price-per-500gms?variant=33334851305560,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/ROUNDLAUKI_500x.jpg?v=1600878914,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '23.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/round-lauki-bottle-gourd-round-price-per-500gms?variant=33334851305560', 'sku': 'LAU2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",23.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Sarda Melon (Price per Pc/Approx. 900gms to 1.1kg),"{'@type': 'Brand', 'name': 'FFG'}",SA2,," 
+
+Surprising Benefits of Honeydew Melon/Sarda Melon-:
+
+
+They are dense in antioxidants, vitamins and nutrients
+
+
+ Boosting healthy eyesight, regulating blood pressure,
+
+
+Melons make for an extremely healthy addition to your diet. 
+
+
+ ",https://fastandfresh.in/products/sarda-melon?variant=32606825742424,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/sardamelon_500x.jpg?v=1593016148,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '75.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/sarda-melon?variant=32606825742424', 'sku': 'SA2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",75.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Sarson-ka-saag/Musturd leaves (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",SAR1,,"
+Mustard greens are rich in important plant compounds and micronutrients, specifically vitamins A, C
+
+As a result, eating them may have benefits for eye and heart health,
+As well as anticancer and immune-boosting properties",https://fastandfresh.in/products/sarson-ka-saag-musturd-leaves-price-per-500gms?variant=33319958216792,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/mustard-leaves_500x.jpg?v=1599669057,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '14.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/sarson-ka-saag-musturd-leaves-price-per-500gms?variant=33319958216792', 'sku': 'SAR1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",14.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Sehjan ka Phool (Price per 150gms),"{'@type': 'Brand', 'name': 'FFG'}",DRM2,,"Surprising Health Benefits Of The Drumstick flower (Sahjan)-:
+
+
+Regulates Blood Sugar Levels
+
+
+Relieves Joint Pains
+
+
+Boosts Memory And Concentration
+
+
+Helps Clear Acne
+
+
+Kills Intestinal Worms
+
+",https://fastandfresh.in/products/drumstick-flower-sehjan-ka-phool-price-per-250gms?variant=37929333522623,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/drumstick_flowers01_500x.png?v=1609995276,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '22.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/drumstick-flower-sehjan-ka-phool-price-per-250gms?variant=37929333522623', 'sku': 'DRM2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",22.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Sem Phali/Lima Beans (Price per 250gms),"{'@type': 'Brand', 'name': 'FFG'}",SEM1,,"Health Benefits Of Lima Beans (Sem Ki Phali)-:
+
+
+
+ Beans Improve Focus
+
+
+Sem ki Phali Contains Antioxidants
+
+
+Beans Good For Insomnia Patients
+
+
+
+ Beans Good Source of vitamin D
+
+",https://fastandfresh.in/products/sem-phali-lima-beans-price-per-250gms?variant=33350073188440,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/SEMFALI_500x.png?v=1600878917,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '12.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/sem-phali-lima-beans-price-per-250gms?variant=33350073188440', 'sku': 'SEM1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",12.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Sitafal  / Pumpkin (Price per Pc/Approx. 2kg to 2.5kg),"{'@type': 'Brand', 'name': 'FFG'}",SI1,,"
+
+
+Impressive Health Benefits of Pumpkin-:
+
+
+
+Highly Nutritious and Particularly Rich in Vitamin A. .
+
+
+High Antioxidant Content May Reduce Your Risk of Chronic Diseases. 
+
+
+Packs Vitamins That May Boost Immunity. ...
+
+
+Vitamin A, Lutein and Zeaxanthin May Protect Your Eyesight. 
+",https://fastandfresh.in/products/pumpkin-red-yellow?variant=32604291760216,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/PUMPKINGREEN_500x.jpg?v=1598459365,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '46.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/pumpkin-red-yellow?variant=32604291760216', 'sku': 'SI1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",46.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Soya leaves/Dill fresh (Price per 250gms),"{'@type': 'Brand', 'name': 'FFG'}",DIL1,,"All You Need to Know About Dill/Soya fresh-:
+
+
+Rich in antioxidants
+
+
+May benefit heart health
+
+
+May help lower blood sugar levels
+
+
+",https://fastandfresh.in/products/soya-leaves-dill-fresh-price-per-250gms?variant=33452420300888,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/SOYAFRESH_500x.jpg?v=1603685625,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '10.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/soya-leaves-dill-fresh-price-per-250gms?variant=33452420300888', 'sku': 'DIL1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",10.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Spinach / Palak (Price per kg),"{'@type': 'Brand', 'name': 'FFG'}",SP1,,"
+Wonderful Benefits Of Spinach You Never Knew-:
+
+
+
+Spinach is rich in vitamins A, C and K, magnesium, iron and manganese
+
+
+
+Eating this leafy green veggie may benefit eye health
+
+
+reduce oxidative stress and reduce blood pressure levels among other health functions
+
+",https://fastandfresh.in/products/spinach?variant=32604292153432,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/spinach_500x.jpg?v=1593498859,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '16.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/spinach?variant=32604292153432', 'sku': 'SP1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",16.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Spring Onion (Price per 100 gms),"{'@type': 'Brand', 'name': 'FFG'}",SP2,,"
+Amazing Benefits Of Spring Onions -:
+
+
+Spring onions are an excellent source of vitamin C and calcium.
+
+ Improves your bone density
+Maintains normal vision
+Lowers blood sugar levels
+",https://fastandfresh.in/products/spring-onion-price-per-500-gms?variant=32876557926488,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/green-onion-leaves-500x500_500x.png?v=1598459402,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '8.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/spring-onion-price-per-500-gms?variant=32876557926488', 'sku': 'SP2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",8.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Sprouts - Channa (Price per 200 gms),"{'@type': 'Brand', 'name': 'FAST AND FRESH GLOBAL LLP'}",SPROUT1,,"
+
+
+Helps in digestion. Sprouts contain an unusually high content of living enzymes. ...
+
+
+Boosts blood circulation. ...
+
+
+Helps in weight loss. ...
+
+
+Builds your immune system. ...
+
+
+Improves eye sight. ...
+
+
+Heart friendly. ...
+
+
+Helps reduce acidity. ...
+
+
+May prevent premature ageing.
+
+",https://fastandfresh.in/products/sprouts-channa-200gms?variant=33180587917400,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/CHANASPROUTS_500x.jpg?v=1596644953,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '24.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/sprouts-channa-200gms?variant=33180587917400', 'sku': 'SPROUT1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",24.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Sprouts - Mix Variety (Price Per 200 gms),"{'@type': 'Brand', 'name': 'FFG'}",sprout2,,"
+Health Benefits Of sprout Mix
+
+
+Boosts blood circulation. ...
+
+
+Helps in weight loss. ...
+
+
+Builds your immune system. ...
+
+
+Improves eye sight. ...
+
+
+Heart friendly. ...
+
+
+Helps reduce acidity. ...
+
+",https://fastandfresh.in/products/sprouts-mix-variety-200gms?variant=33180584509528,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/MIXSPROUT_500x.jpg?v=1596644952,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '24.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/sprouts-mix-variety-200gms?variant=33180584509528', 'sku': 'sprout2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",24.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Sprouts - Moong (Price per 200 gms),"{'@type': 'Brand', 'name': 'FFG'}",Sprouts3,,"Health Benefits of Moong Sprouts-
+
+Packed With Healthy Nutrients. ...
+
+High Antioxidant Levels May Reduce Chronic Disease Risk. ...
+Antioxidants Vitexin and Isovitexin May Prevent Heat Stroke. ...
+May Lower “Bad” LDL Cholesterol Levels, Reducing Heart Disease Risk. ...
+
+
+
+",https://fastandfresh.in/products/sprouts-moong-200gms?variant=33180553085016,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/MUNGSPROUT_500x.jpg?v=1596644952,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '24.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/sprouts-moong-200gms?variant=33180553085016', 'sku': 'Sprouts3', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",24.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Star Fruit/Kamrakh (Price per 250gms),"{'@type': 'Brand', 'name': 'FFG'}",STA1,,,https://fastandfresh.in/products/star-fruit-kamrakh-price-per-250gms?variant=37474785493183,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Star-Fruit_451x.jpg?v=1604733042,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '19.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/star-fruit-kamrakh-price-per-250gms?variant=37474785493183', 'sku': 'STA1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",19.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Strawberry Fresh (Price per Pkt approx. 200gms),"{'@type': 'Brand', 'name': 'FFG'}",STR1,,"Surprising Ways Strawberries Can Benefit Your Health-:
+
+
+Give your immunity a boost
+
+
+Maintain your healthy vision
+
+
+Keep your wrinkles at bay
+
+
+Lower your cholesterol
+
+
+Regulate your blood pressure
+
+",https://fastandfresh.in/products/strawberry-fresh-price-per-pkt-approx-200gms?variant=37681178378431,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/STRAWBERRY_500x.jpg?v=1606964645,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '132.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/strawberry-fresh-price-per-pkt-approx-200gms?variant=37681178378431', 'sku': 'STR1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",132.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Sugarcane/Ikh (Price per kg),"{'@type': 'Brand', 'name': 'FFG'}",SUG1,,"Benefits of Sugarcane for Health and Skin-:
+
+
+It enhances liver function
+
+
+It eases the digestive system
+
+
+
+ It is helpful for people with diabetes
+
+
+It maintains kidney health
+
+
+It aids in development of bones and teeth
+
+",https://fastandfresh.in/products/sugarcane-ikh-price-per-kg?variant=37935749333183,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/SUGARCANE-01_500x.png?v=1610095519,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '26.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/sugarcane-ikh-price-per-kg?variant=37935749333183', 'sku': 'SUG1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",26.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Sweet Lime / Mausambi (Price per Kg),"{'@type': 'Brand', 'name': 'FFG'}",SW1,,"Excellent for Juice in summer!! 
+
+
+Helps digestion.
+
+
+Prevents gums and teeth issues.
+
+
+Recovers immune system.
+
+
+Aids weight control.
+
+
+Take care of the ""gout"" issue.
+
+
+Aids diabetes.
+
+
+Treat ulcers.
+
+
+Boosts blood circulation.
+
+",https://fastandfresh.in/products/sweet-lime-mausambi-price-per-kg?variant=32707806429272,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/sweetlime_500x.jpg?v=1593016150,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '69.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/sweet-lime-mausambi-price-per-kg?variant=32707806429272', 'sku': 'SW1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",69.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Sweet Potato (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",SW2,,"
+The health benefits of sweet potato-:
+
+
+ Promote Gut Health
+
+
+Support Healthy Vision
+
+
+May Enhance Brain Function
+
+
+May Support Your Immune System
+
+",https://fastandfresh.in/products/sweet-potato-price-per-500-gms?variant=32893211639896,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Sweet-Potato_500x.jpg?v=1593016151,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '29.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/sweet-potato-price-per-500-gms?variant=32893211639896', 'sku': 'SW2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",29.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Sweet Tamarind / Imli  (Price per 250gms pack),"{'@type': 'Brand', 'name': 'FFG'}",SW3,,Sweet Imli  (250gms pack) Imported Box,https://fastandfresh.in/products/sweet-tamarind-imli-price-per-box?variant=32843867652184,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/TAMARIND_500x.jpg?v=1598459399,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '95.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/sweet-tamarind-imli-price-per-box?variant=32843867652184', 'sku': 'SW3', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",95.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Thailand Mini Orange (Price per kg),"{'@type': 'Brand', 'name': 'FFG'}",MAN1,,"Health Benefits of Eating Oranges-:
+ 
+
+The strong content of Vitamin C stimulates white cells to fight against infection, naturally helps to build a good immune system.
+It controls high Blood Pressure.
+The anti-oxidants helps to protect skin.
+",https://fastandfresh.in/products/thailand-mini-orange-price-per-500gms?variant=37760686424255,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/freash-mandarine_500x.jpg?v=1607918850,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '460.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/thailand-mini-orange-price-per-500gms?variant=37760686424255', 'sku': 'MAN1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",460.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Thyme (Price per 100 gms),"{'@type': 'Brand', 'name': 'FFG'}",TH1,,"Health Benefits of Thyme-:
+
+
+Thyme to lower blood pressure
+
+
+Thyme to stop coughing
+
+
+Thyme to boost your immunity
+
+
+Thyme for good smells
+
+",https://fastandfresh.in/products/thyme?variant=32604292186200,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/thyme_500x.jpg?v=1598459367,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '67.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/thyme?variant=32604292186200', 'sku': 'TH1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",67.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Tomato Cherry (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",TO1,,"
+
+Cherry tomato nutrition facts and health benefits-:
+
+
+Good for Your Waistline
+
+
+Potassium and Blood Pressure
+
+
+Protection Against Free Radicals
+
+
+
+It is also used in beauty care for both skin and hair.
+
+
+",https://fastandfresh.in/products/tomato-cherry?variant=32604292350040,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/cherrytomato_500x.jpg?v=1598459368,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '38.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/tomato-cherry?variant=32604292350040', 'sku': 'TO1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",38.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Tomato Desi (Price per Kg),"{'@type': 'Brand', 'name': 'FFG'}",TO2,,"
+ Health Benefits of Tomatoes-:
+
+
+Tomatoes are a great source of vitamins
+
+
+They protect heart health
+
+
+Improve you vision
+
+
+Boost digestive health
+
+",https://fastandfresh.in/products/tomato-desi-price-per-kg?variant=32751317581912,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/tomato-round-desi_500x.jpg?v=1593016154,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '28.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/tomato-desi-price-per-kg?variant=32751317581912', 'sku': 'TO2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",28.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Tomato Hybrid (Price per kg),"{'@type': 'Brand', 'name': 'FFG'}",TO3,,"
+
+
+Tomatoes are the major dietary source of the antioxidant lycopene,
+
+
+
+which has been linked to many health benefits, including reduced risk of heart disease 
+
+
+They are also a great source of vitamin C, potassium, folate, and vitamin K.
+
+",https://fastandfresh.in/products/tomato?variant=32603118764120,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/Tomato_Hybrid_500x.jpg?v=1593016155,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '17.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/tomato?variant=32603118764120', 'sku': 'TO3', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",17.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Tori (Price per 250 gms),"{'@type': 'Brand', 'name': 'FFG'}",TO4,,"
+
+Health benefits of ridge gourd /Tori-:
+
+Ideal for weight loss
+Reducing heat in the body
+Prevents premature greying and hair fall
+Reduce skin infections and prevents skin diseases
+",https://fastandfresh.in/products/tori-price-per-250gms?variant=32675811557464,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/tori_500x.jpg?v=1598459384,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '18.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/tori-price-per-250gms?variant=32675811557464', 'sku': 'TO4', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",18.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Turnip/salgam (Price per 500gms),"{'@type': 'Brand', 'name': 'FFG'}",TUR1,,"What are the benefits of turnips?
+
+
+Lowering blood pressure
+
+
+Aiding weight loss and digestion
+
+
+
+Turnips are loaded with fiber and vitamins K, A, C, E, B1, B3, B5
+
+
+
+They are also a good source of phosphorus, omega-3 fatty acids and protein
+
+",https://fastandfresh.in/products/turnip-salgam-price-per-500gms?variant=33468021178456,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/TURNIP_500x.jpg?v=1604135540,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '15.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/turnip-salgam-price-per-500gms?variant=33468021178456', 'sku': 'TUR1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",15.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,VITAMIN-C COMBO,"{'@type': 'Brand', 'name': 'FAST AND FRESH GLOBAL LLP'}",,,"Introducing FFG VITAMIN-C COMBO to boost your immunity amid the coronavirus panademic, to keep the virus and other illnesses at bay. And one of the ways to achieve that is by eating healthy, immunity boosting vegetables and fruits. Vitamins C has antioxidants that help to destroy free radicals and support the body's natural immune response. Sources of vitamin C include red peppers, kinnow, oranges, strawberries, broccoli, lemons and Grapefruit etc. ",https://fastandfresh.in/products/vitamin-c-combo?variant=37893158076607,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/VITAMIN_C_500x.png?v=1609407545,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '699.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/vitamin-c-combo?variant=37893158076607', 'sku': '', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",699.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Water Melon (Price per Pcs 2.5kg to 3kg),"{'@type': 'Brand', 'name': 'FFG'}",WA1,,"
+Here are the top health benefits of eating watermelon.
+
+
+
+Helps You Hydrate. ...
+
+
+Contains Nutrients and Beneficial Plant Compounds. ...
+
+
+Contains Compounds That May Help Prevent Cancer. ...
+
+
+May Improve Heart Health. ...
+
+
+May Lower Inflammation and Oxidative Stress. ...
+
+
+May Help Prevent Macular Degeneration. ...
+
+
+May Help Relieve Muscle Soreness.
+
+
+",https://fastandfresh.in/products/water-melon?variant=32606825840728,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/WM2_500x.jpg?v=1600878857,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '39.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/water-melon?variant=32606825840728', 'sku': 'WA1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",39.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Zuchini Green (Price per 500 gms),"{'@type': 'Brand', 'name': 'FFG'}",ZU1,,"Here are  evidence-based benefits of zucchini.
+
+Rich in Many Nutrients. ...
+High in Antioxidants. ...
+Contributes to Healthy Digestion. ...
+May Reduce Blood Sugar Levels. ...
+May Improve Heart Health. ...
+May Strengthen Your Vision. ...
+May Aid Weight Loss. ...
+Easy to Add to Your Diet.
+",https://fastandfresh.in/products/zuchini-green?variant=32604292513880,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/zucchinigreen_500x.jpg?v=1593016158,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '28.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/zuchini-green?variant=32604292513880', 'sku': 'ZU1', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",28.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26
+https://schema.org,Offer,Zuchini Yellow (Price per 250gms),"{'@type': 'Brand', 'name': 'FFG'}",ZU2,,"Here are  evidence-based benefits of zucchini.
+
+Rich in Many Nutrients. ...
+High in Antioxidants. ...
+Contributes to Healthy Digestion. ...
+May Reduce Blood Sugar Levels. ...
+May Improve Heart Health. ...
+May Strengthen Your Vision. ...
+May Aid Weight Loss. ...
+Easy to Add to Your Diet.
+",https://fastandfresh.in/products/zuchini-yellow?variant=32604292546648,https://cdn.shopify.com/s/files/1/0279/6876/6040/products/zucchiniyellow_500x.jpg?v=1593016159,https://schema.org/NewCondition,"[{'@type': 'Offer', 'price': '22.00', 'priceCurrency': 'INR', 'itemCondition': 'https://schema.org/NewCondition', 'url': 'https://fastandfresh.in/products/zuchini-yellow?variant=32604292546648', 'sku': 'ZU2', 'mpn': '', 'availability': 'https://schema.org/InStock', 'priceValidUntil': '2021-02-25', 'gtin14': ''}]",22.00,INR,https://schema.org/InStock,2021-02-25,,2021-01-26

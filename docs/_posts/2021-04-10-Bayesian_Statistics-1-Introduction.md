@@ -1,0 +1,11 @@
+---
+layout: post
+tags: bayesian-statistics
+---
+
+## Bayesian Data Analysis
+
+At it's core, bayesian analysis is just this -
+
+1) Count all the ways data can happen, according to assumptions
+2) Assumptions with more ways that are consistent with data are more plausible
