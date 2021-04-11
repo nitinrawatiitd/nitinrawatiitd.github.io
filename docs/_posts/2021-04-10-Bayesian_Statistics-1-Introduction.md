@@ -7,5 +7,9 @@ tags: bayesian-statistics
 
 At it's core, bayesian analysis is just this -
 
-1) Count all the ways data can happen, according to assumptions
+1) Count all the ways data can happen, according to assumptions   
 2) Assumptions with more ways that are consistent with data are more plausible
+
+A simple illustration of this process is the garden of forking data 1
+
+![Garden of Forking Data](https://nitinrawatiitd.github.io/docs/assets/pic/bayesian-statistics/garden_of_forking_data.png)
