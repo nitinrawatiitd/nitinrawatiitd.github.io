@@ -376,3 +376,12 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
+
+.image-caption {
+    text-align: center;
+    width: 85%;
+    margin: 10px auto 35px;
+    line-height: 1.35;
+    color: $grey-color;
+    font-style: italic;
+}
