@@ -38,10 +38,11 @@ Consider this example. You are given a light balloon globe that you can toss aro
 
 Steps to build a bayesian model -
 1. Design the model (data story) - how does the data WLWWWLWLW arise?   
-  1. Some true proportion of water p
-  2. Toss globe, probability p of observing W, 1-p of L
-  3. Translate data story into probability statements
-2. Condition on the data (update) - prior to posterior, optimal learning in small world
+   1. Some true proportion of water p
+   2. Toss globe, probability p of observing W, 1-p of L
+   3. Translate data story into probability statements
+2. Condition on the data (update) - prior to posterior, optimal learning in small world   
+  1.
 
 3. Evaluate the model (critique)
 4. Repeat the above 3 steps
