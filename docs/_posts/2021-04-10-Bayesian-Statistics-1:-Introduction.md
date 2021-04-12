@@ -13,7 +13,7 @@ At it's core, bayesian analysis is just this -
 A simple illustration of this process is the garden of forking data -
 
 ![garden of forking data]({{ '/assets/pics/bayesian-statistics/garden_of_forking_data.png' | relative_url }})
-{: style="width: 70%;" class="left"} 
+{: style="width: 70%;" class="left"}
 *Fig. 1. Garden of forking data.*
 {:.image-caption}
 
@@ -37,7 +37,11 @@ Consider this example. You are given a light balloon globe that you can toss aro
 
 
 Steps to build a bayesian model -
-1. Design the model (data story)
-2. Condition on the data (update)
+1. Design the model (data story) - how does the data WLWWWLWLW arise?
+  1. Some true proportion of water p
+  2. Toss globe, probability p of observing W, 1-p of L
+  3. Translate data story into probability statements
+2. Condition on the data (update) - prior to posterior, optimal learning in small world
+
 3. Evaluate the model (critique)
 4. Repeat the above 3 steps
