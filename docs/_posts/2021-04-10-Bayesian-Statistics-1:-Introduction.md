@@ -36,12 +36,21 @@ Consider this example. You are given a light balloon globe that you can toss aro
 
 
 Steps to build a bayesian model -
-1. Design the model (data story) - how does the data WLWWWLWLW arise?   
+1. **Design** the model (data story) - how does the data WLWWWLWLW arise?   
    1. Some true proportion of water p
    2. Toss globe, probability p of observing W, 1-p of L
    3. Translate data story into probability statements
-2. Condition on the data (update) - prior to posterior, optimal learning in small world   
-  1.
-
-3. Evaluate the model (critique)
+2. **Condition** on the data (update) - prior to posterior, optimal learning in small world   
+   1. Give your model an initial information state - the prior   
+   2. Condition on data to update information state - from prior to posterior   
+3. **Evaluate** the model (critique)   
+   1. Did the model malfunction?
+   2. Does the model answer make sense?
+   3. Does the question make sense?
+   4. Check the sensitivity of the answer to assumptions   
 4. Repeat the above 3 steps
+
+![Steps in bayesian update]({{ '/assets/pics/bayesian-statistics/Bayesian_model_steps.png' | relative_url }})
+{: style="width: 70%;" class="left"}
+*Fig. 4. Steps in bayesian update.*
+{:.image-caption}
