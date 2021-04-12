@@ -37,7 +37,7 @@ Consider this example. You are given a light balloon globe that you can toss aro
 
 
 Steps to build a bayesian model -
-1. Design the model (data story) - how does the data WLWWWLWLW arise?
+1. Design the model (data story) - how does the data WLWWWLWLW arise?   
   1. Some true proportion of water p
   2. Toss globe, probability p of observing W, 1-p of L
   3. Translate data story into probability statements
