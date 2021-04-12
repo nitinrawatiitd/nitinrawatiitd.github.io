@@ -13,7 +13,7 @@ At it's core, bayesian analysis is just this -
 A simple illustration of this process is the garden of forking data -
 
 ![garden of forking data]({{ '/assets/pics/bayesian-statistics/garden_of_forking_data.png' | relative_url }})
-{: style="width: 70%;" class="left"}
+{: style="width: 70%;" class="left"} 
 *Fig. 1. Garden of forking data.*
 {:.image-caption}
 
@@ -28,9 +28,16 @@ Suppose you are told that a given bag has 4 balls and that their colour can be e
 
 ## 2. Building a bayesian model
 
+Consider this example. You are given a light balloon globe that you can toss around to other people. Every time another person get the globe you see where the index finger on your right hand is. If it's on water mark that observation as W else mark it L for land. You repeat the tosses multiple times
+
 ![globe tosses]({{ '/assets/pics/bayesian-statistics/globe_tosses.png' | relative_url }})
 {: style="width: 70%;" class="left"}
 *Fig. 3. Globe tosses.*
 {:.image-caption}
 
-Consider this example. You are given a light balloon globe that you can toss around to other people. Every time another person get the globe you see where the index finger on your right hand is. If it's on water mark that observation as W else mark it L for land. You can repeat the tosses multiple times
+
+Steps to build a bayesian model -
+1. Design the model (data story)
+2. Condition on the data (update)
+3. Evaluate the model (critique)
+4. Repeat the above 3 steps
