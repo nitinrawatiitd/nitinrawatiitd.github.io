@@ -14,7 +14,7 @@ A simple illustration of this process is the garden of forking data -
 
 Suppose you are told that a given bag has 4 balls and that their colour can be either white or blue. And you take out a ball (with replacement) and observe it
 1) Your conjecture will tell you what possible permutations of white and blue balls you can have    
-2) With each sampling you'll calculate what is the probability it happening
+2) With each sampling you'll calculate the number of ways the sampling sequence can happen if a conjecture was true (counting). Scaling that to 1 gives you the probability that the underlying conjecture (plausibility)
 
 ![garden of forking data]({{ '/assets/pics/bayesian-statistics/garden_of_forking_data.png' | relative_url }})
 {: style="width: 60%;" class="left"}
