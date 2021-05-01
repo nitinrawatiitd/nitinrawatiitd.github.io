@@ -12,7 +12,7 @@ At it's core, bayesian analysis is just this -
 
 A simple illustration of this process is the garden of forking data -
 
-<img src="/assets/pics/bayesian-statistics/garden_of_forking_data.png" width="400" alt="garden of forking data">    
+<img src="/assets/pics/bayesian-statistics/garden_of_forking_data.png" width="600" alt="garden of forking data" class="left">    
 *Fig. 1. Garden of forking data.*   
 {:.image-caption}
 
