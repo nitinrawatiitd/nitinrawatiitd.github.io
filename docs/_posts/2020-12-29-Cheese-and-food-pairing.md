@@ -15,10 +15,10 @@ This is one of the most popular and readily available cheese out there.
 
 Origin - Gouda, Netherlands, the market where the cheese was sold, not made
 Pronunciation - how-da (Dutch), goo-da (everywhere else)
-Texture - Varies from soft, semi-hard to hard
-Taste - Depending on the age can be
-Smell -
-Color - Yellow
+Texture - Varies from soft, semi-hard to hard   
+Taste - Depending on the age can be   
+Smell -   
+Color - Yellow   
 
 Pairs well with
 * Apple
@@ -27,8 +27,8 @@ Pairs well with
 ### Cheddar -
 Another of the more popular cheese available these days
 
-Origin - Cheddar, Somerset, England
-Texture - Hard
-Taste -
-Smell -
-Color - Yellow
+Origin - Cheddar, Somerset, England   
+Texture - Hard   
+Taste -   
+Smell -   
+Color - Yellow   
