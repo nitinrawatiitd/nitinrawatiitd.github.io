@@ -20,8 +20,7 @@ Suppose you are told that a given bag has 4 balls and that their colour can be e
 1. Your conjecture will tell you what possible permutations of white and blue balls you can have    
 2. With each sampling you'll calculate the number of ways the sampling sequence can happen if a conjecture was true (counting). Scaling that to 1 gives you the probability that the underlying conjecture (plausibility)
 
-![garden of forking data updating]({{ '/assets/pics/bayesian-statistics/garden_of_forking_data_updating.png?s=200' | relative_url }})
-{: style="width: 70%;" class="left"}
+<img src="/assets/pics/bayesian-statistics/garden_of_forking_data_updating.png" width="600" alt="garden of forking data updating" class="left">    
 *Fig. 2. Updating Garden of forking data.*
 {:.image-caption}
 
@@ -29,8 +28,7 @@ Suppose you are told that a given bag has 4 balls and that their colour can be e
 
 Consider this example. You are given a light balloon globe that you can toss around to other people. Every time another person get the globe you see where the index finger on your right hand is. If it's on water mark that observation as W else mark it L for land. You repeat the tosses multiple times
 
-![globe tosses]({{ '/assets/pics/bayesian-statistics/globe_tosses.png' | relative_url }})
-{: style="width: 70%;" class="left"}
+<img src="/assets/pics/bayesian-statistics/globe_tosses.png" width="600" alt="globe tosses" class="left">   
 *Fig. 3. Globe tosses.*
 {:.image-caption}
 
@@ -50,7 +48,6 @@ Steps to build a bayesian model -
    4. Check the sensitivity of the answer to assumptions   
 4. Repeat the above 3 steps
 
-![Steps in bayesian update]({{ '/assets/pics/bayesian-statistics/Bayesian_model_steps.png' | relative_url }})
-{: style="width: 70%;" class="left"}
+<img src="/assets/pics/bayesian-statistics/Bayesian_model_steps.png" width="600" alt="Steps in bayesian update" class="left">  
 *Fig. 4. Steps in bayesian update.*
 {:.image-caption}
